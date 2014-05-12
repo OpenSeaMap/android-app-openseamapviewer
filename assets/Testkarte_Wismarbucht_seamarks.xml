@@ -1,0 +1,3288 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.2S">
+	<node id="274905288" lat="53.9950537" lon="11.4423082" version="8" timestamp="2012-12-14T16:03:15Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="leisure" v="marina"/>
+		<tag k="name" v="Marina Kirchdorf"/>
+		<tag k="phone" v="+49 38425 20743"/>
+		<tag k="seamark:harbour:category" v="marina"/>
+		<tag k="seamark:name" v="Marina Kirchdorf"/>
+		<tag k="seamark:type" v="harbour"/>
+	</node>
+	<node id="278566778" lat="53.9919495" lon="11.3768879" version="16" timestamp="2012-08-26T23:57:16Z" changeset="12873384" uid="23307" user="kanualien">
+		<tag k="building:height" v="21"/>
+		<tag k="light:10:colour" v="red"/>
+		<tag k="light:10:range" v="12"/>
+		<tag k="light:10:sector" v="211.5:220"/>
+		<tag k="light:1:colour" v="white"/>
+		<tag k="light:1:range" v="16"/>
+		<tag k="light:1:sector" v="48:55"/>
+		<tag k="light:2:colour" v="green"/>
+		<tag k="light:2:range" v="11"/>
+		<tag k="light:2:sector" v="55:73.5"/>
+		<tag k="light:3:colour" v="white"/>
+		<tag k="light:3:range" v="16"/>
+		<tag k="light:3:sector" v="73.5:79"/>
+		<tag k="light:4:colour" v="red"/>
+		<tag k="light:4:range" v="12"/>
+		<tag k="light:4:sector" v="79:125"/>
+		<tag k="light:5:colour" v="green"/>
+		<tag k="light:5:range" v="11"/>
+		<tag k="light:5:sector" v="125:135"/>
+		<tag k="light:6:colour" v="white"/>
+		<tag k="light:6:range" v="16"/>
+		<tag k="light:6:sector" v="135:137"/>
+		<tag k="light:7:colour" v="red"/>
+		<tag k="light:7:range" v="12"/>
+		<tag k="light:7:sector" v="137:196"/>
+		<tag k="light:8:colour" v="green"/>
+		<tag k="light:8:range" v="11"/>
+		<tag k="light:8:sector" v="196:202.5"/>
+		<tag k="light:9:colour" v="white"/>
+		<tag k="light:9:range" v="16"/>
+		<tag k="light:9:sector" v="202.5:211.5"/>
+		<tag k="light:category" v="directional"/>
+		<tag k="light:character" v="Iso"/>
+		<tag k="light:description" v="Iso.WRG.6s21m16-11M"/>
+		<tag k="light:ele" v="21"/>
+		<tag k="light:period" v="6"/>
+		<tag k="man_made" v="lighthouse"/>
+		<tag k="name" v="Timmendorf"/>
+		<tag k="seamark" v="landmark"/>
+		<tag k="seamark:landmark:height" v="21"/>
+		<tag k="seamark:light:1:colour" v="white"/>
+		<tag k="seamark:light:1:range" v="16"/>
+		<tag k="seamark:light:1:sector_end" v="69.5"/>
+		<tag k="seamark:light:1:sector_start" v="60.0"/>
+		<tag k="seamark:light:2:colour" v="white"/>
+		<tag k="seamark:light:2:range" v="16"/>
+		<tag k="seamark:light:2:sector_end" v="136.5"/>
+		<tag k="seamark:light:2:sector_start" v="125.5"/>
+		<tag k="seamark:light:3:colour" v="white"/>
+		<tag k="seamark:light:3:range" v="16"/>
+		<tag k="seamark:light:3:sector_end" v="211.5"/>
+		<tag k="seamark:light:3:sector_start" v="202.5"/>
+		<tag k="seamark:light:4:colour" v="red"/>
+		<tag k="seamark:light:4:range" v="12"/>
+		<tag k="seamark:light:4:sector_end" v="60.0"/>
+		<tag k="seamark:light:4:sector_start" v="49.0"/>
+		<tag k="seamark:light:5:colour" v="red"/>
+		<tag k="seamark:light:5:range" v="12"/>
+		<tag k="seamark:light:5:sector_end" v="196.0"/>
+		<tag k="seamark:light:5:sector_start" v="136.5"/>
+		<tag k="seamark:light:6:colour" v="red"/>
+		<tag k="seamark:light:6:range" v="12"/>
+		<tag k="seamark:light:6:sector_end" v="220.0"/>
+		<tag k="seamark:light:6:sector_start" v="211.5"/>
+		<tag k="seamark:light:7:colour" v="green"/>
+		<tag k="seamark:light:7:range" v="11"/>
+		<tag k="seamark:light:7:sector_end" v="125.5"/>
+		<tag k="seamark:light:7:sector_start" v="69.5"/>
+		<tag k="seamark:light:8:colour" v="green"/>
+		<tag k="seamark:light:8:range" v="11"/>
+		<tag k="seamark:light:8:sector_end" v="202.5"/>
+		<tag k="seamark:light:8:sector_start" v="196.0"/>
+		<tag k="seamark:light:character" v="Iso"/>
+		<tag k="seamark:light:height" v="21"/>
+		<tag k="seamark:light:period" v="6"/>
+		<tag k="seamark:light:ref" v="C 1386"/>
+		<tag k="seamark:longname" v="Timmendorf."/>
+		<tag k="seamark:type" v="light_minor"/>
+	</node>
+	<node id="283073859" lat="54.2017956" lon="11.0902198" version="11" timestamp="2011-11-29T20:24:04Z" changeset="9992006" uid="291382" user="cleanerx">
+		<tag k="light:character" v="flashing"/>
+		<tag k="light:description" v="Fl(3) 12s 34m 23M"/>
+		<tag k="light:height" v="34"/>
+		<tag k="light:ref" v="C 1342"/>
+		<tag k="light:signal_period" v="12"/>
+		<tag k="light:signal_sequence" v="0.8+(2.2)+0.8+(2.2)+0.8+(5.2)"/>
+		<tag k="man_made" v="lighthouse"/>
+		<tag k="name" v="Leuchtturm Dahmeshöved"/>
+		<tag k="seamark:light:1:colour" v="white"/>
+		<tag k="seamark:light:1:radius" v="1"/>
+		<tag k="seamark:light:1:sector_end" v="68.3"/>
+		<tag k="seamark:light:1:sector_start" v="176.3"/>
+		<tag k="seamark:light:character" v="Fl"/>
+		<tag k="seamark:light:group" v="3"/>
+		<tag k="seamark:light:height" v="34"/>
+		<tag k="seamark:light:period" v="12"/>
+		<tag k="seamark:light:range" v="23"/>
+		<tag k="seamark:light:ref" v="C 1342"/>
+		<tag k="seamark:light:sequence" v="0.8+(2.2)+0.8+(2.2)+0.8+(5.2)"/>
+		<tag k="seamark:longname" v="Dahmeshoved."/>
+		<tag k="seamark:name" v="Dahmeshöved"/>
+		<tag k="seamark:type" v="landmark"/>
+	</node>
+	<node id="296879886" lat="53.97317" lon="11.2499918" version="4" timestamp="2012-12-14T16:03:14Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="email" v="info@marina-boltenhagen.de"/>
+		<tag k="leisure" v="marina"/>
+		<tag k="name" v="Marina Boltenhagen"/>
+		<tag k="operator" v="Sea-site GmbH"/>
+		<tag k="phone" v="+49 38825 26390"/>
+		<tag k="seamark:harbour:category" v="marina"/>
+		<tag k="seamark:name" v="Marina Boltenhagen"/>
+		<tag k="seamark:type" v="harbour"/>
+		<tag k="website" v="http://www.marina-boltenhagen.de/"/>
+	</node>
+	<node id="302306092" lat="53.9735682" lon="11.2466946" version="5" timestamp="2012-12-14T16:03:15Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="leisure" v="slipway"/>
+		<tag k="name" v="Tarnewitz"/>
+		<tag k="seamark:small_craft_facility:category" v="slipway"/>
+		<tag k="seamark:type" v="small_craft_facility"/>
+	</node>
+	<node id="302350461" lat="53.9738851" lon="11.2454841" version="3" timestamp="2012-12-14T16:03:15Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="amenity" v="toilets"/>
+		<tag k="seamark:small_craft_facility:2:category" v="toilets"/>
+		<tag k="seamark:type" v="small_craft_facility"/>
+	</node>
+	<node id="315061902" lat="53.9920365" lon="11.3750135" version="4" timestamp="2012-12-14T16:03:14Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="leisure" v="marina"/>
+		<tag k="name" v="Hafen Timmendorf"/>
+		<tag k="phone" v="+49 38425 212333"/>
+		<tag k="seamark:harbour:category" v="marina"/>
+		<tag k="seamark:name" v="Hafen Timmendorf"/>
+		<tag k="seamark:type" v="harbour"/>
+	</node>
+	<node id="318300818" lat="53.8960921" lon="11.4536448" version="5" timestamp="2012-12-14T16:03:15Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="leisure" v="marina"/>
+		<tag k="name" v="Westhafen"/>
+		<tag k="phone" v="+49 3841 224491"/>
+		<tag k="seamark:harbour:category" v="marina"/>
+		<tag k="seamark:name" v="Westhafen"/>
+		<tag k="seamark:type" v="harbour"/>
+		<tag k="website" v="www.westhafen.net"/>
+	</node>
+	<node id="332455209" lat="53.9021681" lon="11.435305" version="4" timestamp="2012-12-14T16:03:15Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="email" v="info@wsv1911.de"/>
+		<tag k="leisure" v="marina"/>
+		<tag k="name" v="Wismarer Segler-Verein 1911"/>
+		<tag k="phone" v="+49 174 1974680"/>
+		<tag k="seamark:harbour:category" v="marina"/>
+		<tag k="seamark:name" v="Wismarer Segler-Verein 1911"/>
+		<tag k="seamark:type" v="harbour"/>
+		<tag k="website" v="http://www.wsv1911.de"/>
+	</node>
+	<node id="366205503" lat="54.1319067" lon="11.6936805" version="20" timestamp="2011-10-08T15:20:20Z" changeset="9501854" uid="92274" user="adjuva">
+		<tag k="landmark" v="lighthouse"/>
+		<tag k="landmark:colour" v="red, white"/>
+		<tag k="landmark:nature_of_construction" v="masonry"/>
+		<tag k="landmark:vertical_length" v="21"/>
+		<tag k="light:character" v="long_flashing"/>
+		<tag k="light:description" v="LFl(4) WR 45s 95m 24M"/>
+		<tag k="light:height" v="95"/>
+		<tag k="light:ref" v="C 1400"/>
+		<tag k="light:signal_period" v="45"/>
+		<tag k="light:signal_sequence" v="2.1+(6.9)+2.1+(6.9)+2.1+(6.9)+2.1+(15.9)"/>
+		<tag k="light_signal_group" v="4"/>
+		<tag k="lightsector:1:colour" v="white"/>
+		<tag k="lightsector:1:range" v="24"/>
+		<tag k="lightsector:1:sector_end" v="040"/>
+		<tag k="lightsector:1:sector_start" v="030"/>
+		<tag k="lightsector:2:colour" v="red"/>
+		<tag k="lightsector:2:range" v="20"/>
+		<tag k="lightsector:2:sector_end" v="073"/>
+		<tag k="lightsector:2:sector_start" v="040"/>
+		<tag k="lightsector:3.sector_start" v="73"/>
+		<tag k="lightsector:3:colour" v="white"/>
+		<tag k="lightsector:3:range" v="24"/>
+		<tag k="lightsector:3:sector_end" v="265"/>
+		<tag k="man_made" v="lighthouse"/>
+		<tag k="name" v="Leuchtturm Buk"/>
+		<tag k="ref" v="Buk"/>
+		<tag k="seamark" v="lighthouse"/>
+		<tag k="seamark:light:1:character" v="LFl"/>
+		<tag k="seamark:light:1:colour" v="white"/>
+		<tag k="seamark:light:1:radius" v="3.24"/>
+		<tag k="seamark:light:1:range" v="24"/>
+		<tag k="seamark:light:1:sector_end" v="040"/>
+		<tag k="seamark:light:1:sector_start" v="030"/>
+		<tag k="seamark:light:2:character" v="LFl"/>
+		<tag k="seamark:light:2:colour" v="red"/>
+		<tag k="seamark:light:2:radius" v="3.02"/>
+		<tag k="seamark:light:2:range" v="20"/>
+		<tag k="seamark:light:2:sector_end" v="073"/>
+		<tag k="seamark:light:2:sector_start" v="040"/>
+		<tag k="seamark:light:3:character" v="LFl"/>
+		<tag k="seamark:light:3:colour" v="white"/>
+		<tag k="seamark:light:3:radius" v="3.24"/>
+		<tag k="seamark:light:3:range" v="24"/>
+		<tag k="seamark:light:3:sector_end" v="265"/>
+		<tag k="seamark:light:3:sector_start" v="073"/>
+		<tag k="seamark:light:character" v="LFl"/>
+		<tag k="seamark:light:group" v="4"/>
+		<tag k="seamark:light:height" v="95"/>
+		<tag k="seamark:light:period" v="45"/>
+		<tag k="seamark:name" v="Buk"/>
+		<tag k="seamark:type" v="landmark"/>
+	</node>
+	<node id="375830138" lat="53.9098545" lon="11.4343017" version="8" timestamp="2012-12-14T16:03:16Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="leisure" v="slipway"/>
+		<tag k="operating" v="car"/>
+		<tag k="seamark:small_craft_facility:category" v="slipway"/>
+		<tag k="seamark:type" v="small_craft_facility"/>
+	</node>
+	<node id="431046927" lat="54.1531807" lon="11.7707401" version="4" timestamp="2012-12-14T16:08:05Z" changeset="14272981" uid="644905" user="RTU">
+		<tag k="email" v="bootshafen@kuehlungsborn.de"/>
+		<tag k="leisure" v="marina"/>
+		<tag k="name" v="Sportboothafen Kühlungsborn"/>
+		<tag k="phone" v="+49 38293 41055"/>
+		<tag k="seamark:harbour:category" v="marina"/>
+		<tag k="seamark:name" v="Sportboothafen Kühlungsborn"/>
+		<tag k="seamark:type" v="harbour"/>
+	</node>
+	<node id="431047089" lat="54.04" lon="11.2975" version="15" timestamp="2011-11-28T22:54:25Z" changeset="9983259" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="safe_water"/>
+		<tag k="buoy:colour" v="red-white"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="description" v="Ansteuerung Wismar Befeuerung: Iso 4s"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=655"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Iso"/>
+		<tag k="light:colour" v="white"/>
+		<tag k="light:description" v="Iso.W.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="Offentief"/>
+		<tag k="note" v="Ansteuerung"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_safe_water:colour" v="red;white"/>
+		<tag k="seamark:buoy_safe_water:colour_pattern" v="vertical"/>
+		<tag k="seamark:buoy_safe_water:shape" v="pillar"/>
+		<tag k="seamark:light:character" v="Iso"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:name" v="Offentief"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="sphere"/>
+		<tag k="seamark:type" v="buoy_safe_water"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red-white"/>
+		<tag k="topmark:shape" v="sphere"/>
+	</node>
+	<node id="431047102" lat="54.0331" lon="11.3082" version="9" timestamp="2011-08-16T08:13:39Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="1"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="Offentief 1"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431047110" lat="54.0342" lon="11.3116" version="9" timestamp="2011-08-16T08:13:40Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="2"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="Offentief 2"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048591" lat="54.0188" lon="11.3299" version="12" timestamp="2011-08-16T08:13:40Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=780"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Q"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Q.G"/>
+		<tag k="name" v="13/Offentief 3"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Q"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:name" v="13/Offentief 3"/>
+		<tag k="seamark:topmark:colour" v="green"/>
+		<tag k="seamark:topmark:shape" v="cone, point up"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="431048606" lat="54.0202" lon="11.3405" version="12" timestamp="2011-08-23T21:13:05Z" changeset="9107813" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green-red-green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Fl(2+1)G.15s"/>
+		<tag k="light:period" v="15"/>
+		<tag k="light:signal_group" v="2+1"/>
+		<tag k="name" v="11/Offentief 4"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="preferred_channel_starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green;red;green"/>
+		<tag k="seamark:buoy_lateral:colour_pattern" v="horizontal"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Fl"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:group" v="2+1"/>
+		<tag k="seamark:light:period" v="15"/>
+		<tag k="seamark:name" v="11/Offentief 4"/>
+		<tag k="seamark:topmark:colour" v="green"/>
+		<tag k="seamark:topmark:shape" v="cone, point up"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="431048622" lat="54.0183" lon="11.3413" version="10" timestamp="2011-06-16T11:09:21Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Q"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Q.R"/>
+		<tag k="name" v="12"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Q"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:name" v="12"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048651" lat="54.0111" lon="11.3328" version="13" timestamp="2011-06-16T11:08:27Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Oc(2)R.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="14"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:period" v="9"/>
+		<tag k="seamark:name" v="14"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="cylinder"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="431048668" lat="54.0034" lon="11.3305" version="10" timestamp="2011-06-16T11:08:10Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Oc(2)G.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="15"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:period" v="9"/>
+		<tag k="seamark:name" v="15"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048679" lat="53.9926" lon="11.3304" version="12" timestamp="2011-06-16T11:08:35Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=785"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Fl.G.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="17"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Fl"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:name" v="17"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048685" lat="53.9846" lon="11.3321" version="17" timestamp="2011-06-16T11:08:15Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Q"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Q.R"/>
+		<tag k="name" v="16"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Q"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:name" v="16"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="cylinder"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="431048693" lat="53.9795" lon="11.3307" version="12" timestamp="2011-06-16T11:08:32Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=787"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:category" v="Q"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Q.G"/>
+		<tag k="name" v="19"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Q"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:name" v="19"/>
+		<tag k="seamark:topmark:colour" v="green"/>
+		<tag k="seamark:topmark:shape" v="cone, point up"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="431048712" lat="53.976" lon="11.3385" version="11" timestamp="2011-06-16T11:09:10Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=788"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Oc(2)G.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="21"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:period" v="9"/>
+		<tag k="seamark:name" v="21"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048725" lat="53.9769" lon="11.3395" version="16" timestamp="2011-06-16T11:09:49Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Oc(2)R.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="18"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:period" v="9"/>
+		<tag k="seamark:name" v="18"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="431048730" lat="53.969" lon="11.3565" version="11" timestamp="2011-06-16T11:07:29Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=790"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Fl.G.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="23"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Fl"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:name" v="23"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048736" lat="53.9696" lon="11.3574" version="13" timestamp="2011-08-16T08:13:40Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Fl.R.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="20/Flaggtief 8"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:name" v="20/Flaggtief 8"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="cylinder"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="431048755" lat="53.9616866" lon="11.3731461" version="11" timestamp="2011-06-16T11:07:54Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=792"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Oc(2)G.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="25"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:period" v="9"/>
+		<tag k="seamark:name" v="25"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048761" lat="53.9625816" lon="11.3739357" version="16" timestamp="2011-06-16T11:07:26Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Oc(2)R.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="22"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:period" v="9"/>
+		<tag k="seamark:name" v="22"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048772" lat="53.9552448" lon="11.3894231" version="12" timestamp="2011-06-16T11:08:14Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=794"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Fl.G.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="27"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Fl"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:name" v="27"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048778" lat="53.9560778" lon="11.3903469" version="14" timestamp="2011-08-16T08:13:41Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Fl.R.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="24/Kirchdorf 2"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:name" v="24/Kirchdorf 2"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="cylinder"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="431048783" lat="53.9499156" lon="11.4021314" version="12" timestamp="2011-06-16T11:08:04Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=796"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Q"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Q.G"/>
+		<tag k="name" v="29"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Q"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:name" v="29"/>
+		<tag k="seamark:topmark:colour" v="green"/>
+		<tag k="seamark:topmark:shape" v="cone, point up"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="431048791" lat="53.9508633" lon="11.4031523" version="14" timestamp="2011-08-16T08:13:41Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Q"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Q.R"/>
+		<tag k="name" v="26"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="26"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="cylinder"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="431048793" lat="53.9476622" lon="11.4073129" version="11" timestamp="2011-08-16T08:13:42Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=798"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Fl.G.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="31"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:name" v="31"/>
+		<tag k="seamark:topmark:colour" v="green"/>
+		<tag k="seamark:topmark:shape" v="cone, point up"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="431048795" lat="53.9485291" lon="11.4088219" version="17" timestamp="2011-06-16T11:09:46Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Fl.R.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="28"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Fl"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:name" v="28"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="cylinder"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="431048801" lat="53.9473549" lon="11.4137844" version="14" timestamp="2011-12-04T12:22:18Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Q"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Q.R"/>
+		<tag k="name" v="30"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Q"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:name" v="30"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="cylinder"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="431048806" lat="53.9441274" lon="11.4115221" version="12" timestamp="2011-06-16T11:07:44Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=801"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="IQ"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="IQ.G.13s"/>
+		<tag k="light:period" v="13"/>
+		<tag k="name" v="33"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Iso"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:period" v="13"/>
+		<tag k="seamark:name" v="33"/>
+		<tag k="seamark:topmark:colour" v="green"/>
+		<tag k="seamark:topmark:shape" v="cone, point up"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="431048812" lat="53.9447052" lon="11.4132017" version="17" timestamp="2011-06-16T11:07:18Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="IQ"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="IQ.R.13s"/>
+		<tag k="light:period" v="13"/>
+		<tag k="name" v="32"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="IQ"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:period" v="13"/>
+		<tag k="seamark:name" v="30"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="cylinder"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="431048818" lat="53.9408768" lon="11.4141694" version="11" timestamp="2011-06-16T11:09:32Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Oc(2)G.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="35"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:period" v="9"/>
+		<tag k="seamark:name" v="35"/>
+		<tag k="seamark:topmark:colour" v="green"/>
+		<tag k="seamark:topmark:shape" v="cone, point up"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="431048825" lat="53.9417369" lon="11.4152606" version="13" timestamp="2011-06-16T11:08:09Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Oc(2)R.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="34"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:group" v="3"/>
+		<tag k="seamark:light:period" v="9"/>
+		<tag k="seamark:name" v="34"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="cylinder"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="431048832" lat="53.9336206" lon="11.4188558" version="14" timestamp="2011-06-16T11:10:00Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=805"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Fl.G.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="37"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Fl"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:name" v="37"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048836" lat="53.9338473" lon="11.4205847" version="14" timestamp="2011-06-16T11:08:49Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Fl.R.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="36"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Fl"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:name" v="34"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048842" lat="53.9263489" lon="11.4234987" version="14" timestamp="2011-08-16T08:13:42Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=807"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Oc(2)G.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="39"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:name" v="39"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="431048847" lat="53.9268913" lon="11.4250941" version="19" timestamp="2011-05-24T18:59:11Z" changeset="8238504" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Oc(2)R.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="38"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:period" v="9"/>
+		<tag k="seamark:name" v="36"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048853" lat="53.9216362" lon="11.427338" version="14" timestamp="2011-08-16T08:13:43Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=809"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Fl.G.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="41"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:name" v="41"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="431048858" lat="53.9218883" lon="11.4290085" version="19" timestamp="2011-08-16T08:13:43Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Fl.R.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="40"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:name" v="38"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="431048864" lat="53.9154374" lon="11.4333966" version="13" timestamp="2011-08-16T08:13:44Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=811"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Oc(2)G.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="43"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:name" v="35"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048869" lat="53.9161422" lon="11.4345102" version="19" timestamp="2011-08-16T08:13:44Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Oc(2)R.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="42"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:name" v="42"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048886" lat="53.9098942" lon="11.4392561" version="14" timestamp="2011-08-16T08:13:45Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=815"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Fl.G.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="45"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:name" v="45"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048891" lat="53.9104946" lon="11.4402802" version="19" timestamp="2011-08-16T08:13:45Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Fl.R.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="44/ABz"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:name" v="44/ABz"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="431048896" lat="53.9070312" lon="11.4437896" version="18" timestamp="2011-08-16T08:13:45Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Oc(2)R.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="46"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:name" v="46"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431048903" lat="53.907905" lon="11.4414164" version="6" timestamp="2011-06-29T11:34:04Z" changeset="8580095" uid="128186" user="malcolmh">
+		<tag k="buoy" v="cardinal_east"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_cardinal:category" v="east"/>
+		<tag k="seamark:type" v="buoy_cardinal"/>
+		<tag k="topmark" v="yes"/>
+	</node>
+	<node id="431058834" lat="54.0229722" lon="11.1578173" version="4" timestamp="2011-05-03T07:36:10Z" changeset="8036877" uid="128186" user="malcolmh">
+		<tag k="buoy" v="special_purpose"/>
+		<tag k="description" v="Ankern verboten, Seekabel 24-JUL-08 12:15:51"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:buoy_special_purpose:shape" v="pillar"/>
+		<tag k="seamark:type" v="buoy_special_purpose"/>
+	</node>
+	<node id="431058850" lat="53.9024683" lon="11.4460528" version="14" timestamp="2011-12-10T09:13:14Z" changeset="10079287" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=1911"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Oc(2)G.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="47"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:period" v="9"/>
+		<tag k="seamark:name" v="47"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431058856" lat="54.0229432" lon="11.1215566" version="4" timestamp="2011-05-03T07:36:10Z" changeset="8036877" uid="128186" user="malcolmh">
+		<tag k="buoy" v="special_purpose"/>
+		<tag k="description" v="Ankern verboten, Seekabel 24-JUL-08 12:03:43"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:buoy_special_purpose:shape" v="pillar"/>
+		<tag k="seamark:type" v="buoy_special_purpose"/>
+	</node>
+	<node id="431058956" lat="54.037186" lon="11.138863" version="5" timestamp="2011-05-03T07:36:10Z" changeset="8036877" uid="128186" user="malcolmh">
+		<tag k="buoy" v="special_purpose"/>
+		<tag k="description" v="Ankern verboten, Seekabel"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:buoy_special_purpose:shape" v="pillar"/>
+		<tag k="seamark:type" v="buoy_special_purpose"/>
+	</node>
+	<node id="431059025" lat="53.9985636" lon="11.3642369" version="7" timestamp="2011-08-23T21:12:47Z" changeset="9107813" uid="128186" user="malcolmh">
+		<tag k="buoy" v="cardinal_east"/>
+		<tag k="buoy:colour" v="black-yellow-black"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Q"/>
+		<tag k="light:colour" v="white"/>
+		<tag k="light:description" v="Q(3)10s"/>
+		<tag k="light:period" v="10"/>
+		<tag k="light:signal_group" v="3"/>
+		<tag k="name" v="Platte Ost"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_cardinal:category" v="east"/>
+		<tag k="seamark:buoy_cardinal:colour" v="black;yellow;black"/>
+		<tag k="seamark:buoy_cardinal:colour_pattern" v="horizontal"/>
+		<tag k="seamark:buoy_cardinal:shape" v="pillar"/>
+		<tag k="seamark:name" v="Platte Ost"/>
+		<tag k="seamark:topmark:colour" v="black"/>
+		<tag k="seamark:topmark:shape" v="2 cones base together"/>
+		<tag k="seamark:type" v="buoy_cardinal"/>
+		<tag k="topmark" v="yes"/>
+	</node>
+	<node id="431059034" lat="54.0561937" lon="11.4991757" version="14" timestamp="2011-11-28T22:54:29Z" changeset="9983259" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="special_purpose"/>
+		<tag k="buoy:colour" v="yellow"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="description" v="27-JUL-08 13:23:01"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=1940"/>
+		<tag k="identity_code" v="45m12"/>
+		<tag k="lure" v="invalid"/>
+		<tag k="name" v="092"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:buoy_special_purpose:shape" v="spar"/>
+		<tag k="seamark:name" v="92"/>
+		<tag k="seamark:type" v="buoy_special_purpose"/>
+	</node>
+	<node id="431059056" lat="54.0549313" lon="11.5612007" version="11" timestamp="2011-08-23T21:12:48Z" changeset="9107813" uid="128186" user="malcolmh">
+		<tag k="buoy" v="safe_water"/>
+		<tag k="buoy:colour" v="red-white"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="description" v="Rerik Ansteuerung"/>
+		<tag k="name" v="Rerik"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_safe_water:colour" v="red;white"/>
+		<tag k="seamark:buoy_safe_water:colour_pattern" v="vertical"/>
+		<tag k="seamark:buoy_safe_water:shape" v="spar"/>
+		<tag k="seamark:name" v="Rerik"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="sphere"/>
+		<tag k="seamark:type" v="buoy_safe_water"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red-white"/>
+		<tag k="topmark:shape" v="sphere"/>
+	</node>
+	<node id="431059085" lat="54.0950061" lon="11.6068514" version="9" timestamp="2011-08-16T08:05:15Z" changeset="9034227" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="16"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="16"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="431059089" lat="54.0908482" lon="11.6011608" version="9" timestamp="2011-08-16T08:05:14Z" changeset="9034227" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="14"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="14"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431059090" lat="54.0858894" lon="11.595556" version="10" timestamp="2011-08-16T08:05:14Z" changeset="9034227" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="11"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="11"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="431059096" lat="54.0812473" lon="11.5904405" version="10" timestamp="2011-08-16T08:05:17Z" changeset="9034227" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="9"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="9"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431059100" lat="54.0773398" lon="11.5861576" version="10" timestamp="2011-08-16T08:05:16Z" changeset="9034227" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="7"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="7"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431059105" lat="54.0733967" lon="11.5814197" version="10" timestamp="2011-08-16T08:05:16Z" changeset="9034227" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="5"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="5"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431059111" lat="54.0665622" lon="11.5740297" version="10" timestamp="2011-08-16T08:05:15Z" changeset="9034227" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="3"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="3"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="431059117" lat="54.0601043" lon="11.5672748" version="10" timestamp="2011-08-16T08:05:13Z" changeset="9034227" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="1"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="1"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="431059156" lat="54.00211" lon="11.3652551" version="9" timestamp="2011-08-16T08:13:38Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="Flaggtief 6"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="Flaggtief 6"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431059161" lat="54.0362943" lon="11.4120243" version="9" timestamp="2011-08-16T08:13:46Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Fl.R.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="8"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="8"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431059166" lat="54.0583159" lon="11.4460046" version="9" timestamp="2011-06-16T11:09:18Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Oc(2)R.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="6"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:period" v="9"/>
+		<tag k="seamark:name" v="6"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431059172" lat="54.0619884" lon="11.4539526" version="9" timestamp="2011-11-28T22:54:34Z" changeset="9983259" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=1959"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Q"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Q.R"/>
+		<tag k="name" v="4"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:name" v="4"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="431059909" lat="54.040252" lon="11.5345882" version="7" timestamp="2011-12-02T14:23:21Z" changeset="10017009" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="cardinal_north"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="Werder Nord"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_cardinal:category" v="north"/>
+		<tag k="seamark:buoy_cardinal:colour" v="black;yellow"/>
+		<tag k="seamark:buoy_cardinal:colour_pattern" v="horizontal"/>
+		<tag k="seamark:buoy_cardinal:shape" v="pillar"/>
+		<tag k="seamark:light:character" v="Q"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:period" v="5"/>
+		<tag k="seamark:name" v="Werder Nord"/>
+		<tag k="seamark:topmark:colour" v="black"/>
+		<tag k="seamark:topmark:shape" v="2 cones up"/>
+		<tag k="seamark:type" v="buoy_cardinal"/>
+	</node>
+	<node id="431060378" lat="54.0624135" lon="11.507594" version="12" timestamp="2011-11-28T22:54:36Z" changeset="9983259" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="special_purpose"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:buoy_special_purpose:shape" v="spar"/>
+		<tag k="seamark:type" v="buoy_special_purpose"/>
+	</node>
+	<node id="431060386" lat="54.0693776" lon="11.5162554" version="9" timestamp="2011-11-28T22:54:27Z" changeset="9983259" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="special_purpose"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="description" v="28-JUL-08 7:51:46"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=2117"/>
+		<tag k="name" v="008"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:buoy_special_purpose:shape" v="spar"/>
+		<tag k="seamark:name" v="8"/>
+		<tag k="seamark:type" v="buoy_special_purpose"/>
+	</node>
+	<node id="431060392" lat="54.0758237" lon="11.5243325" version="9" timestamp="2011-11-28T22:54:27Z" changeset="9983259" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="special_purpose"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="description" v="28-JUL-08 7:56:21"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=2118"/>
+		<tag k="name" v="009"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:buoy_special_purpose:shape" v="spar"/>
+		<tag k="seamark:name" v="9"/>
+		<tag k="seamark:type" v="buoy_special_purpose"/>
+	</node>
+	<node id="431060405" lat="54.0825513" lon="11.5326992" version="8" timestamp="2011-11-28T22:54:27Z" changeset="9983259" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="special_purpose"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="description" v="28-JUL-08 8:06:21"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=2120"/>
+		<tag k="name" v="011"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:buoy_special_purpose:shape" v="spar"/>
+		<tag k="seamark:name" v="11"/>
+		<tag k="seamark:type" v="buoy_special_purpose"/>
+	</node>
+	<node id="431060410" lat="54.1000885" lon="11.5358064" version="7" timestamp="2011-11-28T22:54:28Z" changeset="9983259" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="special_purpose"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="description" v="28-JUL-08 8:06:21"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=2120"/>
+		<tag k="name" v="011"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:buoy_special_purpose:shape" v="spar"/>
+		<tag k="seamark:name" v="11"/>
+		<tag k="seamark:type" v="buoy_special_purpose"/>
+	</node>
+	<node id="431060421" lat="54.0963371" lon="11.5495804" version="8" timestamp="2011-11-28T22:54:28Z" changeset="9983259" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="special_purpose"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="description" v="28-JUL-08 8:11:34"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=2121"/>
+		<tag k="name" v="012"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:buoy_special_purpose:shape" v="spar"/>
+		<tag k="seamark:name" v="12"/>
+		<tag k="seamark:type" v="buoy_special_purpose"/>
+	</node>
+	<node id="431060443" lat="54.0603764" lon="11.5668628" version="10" timestamp="2011-08-16T08:05:15Z" changeset="9034227" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="2"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="2"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431060450" lat="54.0669249" lon="11.5737379" version="9" timestamp="2011-08-16T08:05:15Z" changeset="9034227" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="4"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="4"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431060455" lat="54.0737392" lon="11.5808704" version="9" timestamp="2011-08-16T08:05:16Z" changeset="9034227" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="6"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="6"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431060460" lat="54.077647" lon="11.5856254" version="9" timestamp="2011-08-16T08:05:16Z" changeset="9034227" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="8"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="8"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431060475" lat="54.0814789" lon="11.5899942" version="9" timestamp="2011-08-16T08:05:14Z" changeset="9034227" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="10"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="10"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="431060515" lat="54.0862116" lon="11.594878" version="9" timestamp="2011-08-16T08:05:14Z" changeset="9034227" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="12"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="12"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="441019150" lat="53.9856817" lon="11.3399964" version="6" timestamp="2011-06-29T11:33:08Z" changeset="8580091" uid="128186" user="malcolmh">
+		<tag k="buoy" v="cardinal_south"/>
+		<tag k="buoy:colour" v="yellow-black"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="description" v="11-JUL-09 10:53:48"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=7546"/>
+		<tag k="name" v="Mittelgrund Süd"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_cardinal:category" v="south"/>
+		<tag k="seamark:buoy_cardinal:shape" v="pillar"/>
+		<tag k="seamark:type" v="buoy_cardinal"/>
+		<tag k="topmark" v="yes"/>
+	</node>
+	<node id="442669009" lat="54.0628548" lon="11.4512832" version="11" timestamp="2011-06-16T11:07:40Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Q"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Q.G"/>
+		<tag k="name" v="3"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Q"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:name" v="3"/>
+		<tag k="seamark:topmark:colour" v="green"/>
+		<tag k="seamark:topmark:shape" v="cone, point up"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="442669010" lat="54.0727823" lon="11.4512318" version="10" timestamp="2011-12-02T05:12:09Z" changeset="10014251" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Fl.R.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="2"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Fl"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:name" v="2"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="cylinder"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="442669011" lat="54.0726715" lon="11.4465625" version="11" timestamp="2011-06-16T11:08:21Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Fl.G.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="1"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Fl"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:name" v="1"/>
+		<tag k="seamark:topmark:colour" v="green"/>
+		<tag k="seamark:topmark:shape" v="cone, point up"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="442669026" lat="54.0572781" lon="11.4402712" version="10" timestamp="2011-06-16T11:07:46Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Oc(2)G.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="5"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:period" v="9"/>
+		<tag k="seamark:name" v="5"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="442669027" lat="54.0400242" lon="11.4056041" version="10" timestamp="2011-08-16T08:13:46Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=8742"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Fl.G.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="7"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="7"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="442669028" lat="54.0224152" lon="11.3713234" version="13" timestamp="2011-06-16T11:08:41Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Oc(2)G.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="9"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:period" v="9"/>
+		<tag k="seamark:name" v="9"/>
+		<tag k="seamark:topmark:colour" v="green"/>
+		<tag k="seamark:topmark:shape" v="cone, point up"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="442669029" lat="54.0195763" lon="11.3702247" version="12" timestamp="2011-06-16T11:07:34Z" changeset="8455059" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Fl.R.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="10/Flaggtief 2"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Fl"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:name" v="10/Flaggtief 2"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="cylinder"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="442669031" lat="53.9020688" lon="11.4359539" version="6" timestamp="2011-12-04T13:16:23Z" changeset="10032966" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="description" v="11-JUL-09 9:49:33"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="442669036" lat="53.9020738" lon="11.4358251" version="6" timestamp="2011-12-04T13:16:23Z" changeset="10032966" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="description" v="11-JUL-09 9:50:38"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="442669037" lat="53.9017451" lon="11.4370783" version="6" timestamp="2011-12-04T13:16:23Z" changeset="10032966" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="description" v="11-JUL-09 9:51:34"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="442669038" lat="53.9014518" lon="11.4382971" version="6" timestamp="2011-12-04T13:16:24Z" changeset="10032966" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="description" v="11-JUL-09 9:52:21"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="442669039" lat="53.9011636" lon="11.4395502" version="6" timestamp="2011-12-04T13:16:24Z" changeset="10032966" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="description" v="11-JUL-09 9:53:09"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="442669046" lat="53.9018008" lon="11.4371727" version="6" timestamp="2011-12-04T13:16:24Z" changeset="10032966" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="description" v="11-JUL-09 9:48:43"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="442669047" lat="53.9015266" lon="11.4383762" version="10" timestamp="2011-12-04T13:16:25Z" changeset="10032966" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=7554"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="442669048" lat="53.9012293" lon="11.4396188" version="6" timestamp="2011-12-04T13:16:25Z" changeset="10032966" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="description" v="11-JUL-09 9:47:24"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="442669049" lat="53.900955" lon="11.4409131" version="7" timestamp="2011-12-04T13:16:22Z" changeset="10032966" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="W 7"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="W 7"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="442669052" lat="53.9019079" lon="11.4448195" version="7" timestamp="2011-12-04T13:16:20Z" changeset="10032966" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="W 1"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="W 1"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="442669053" lat="53.9016013" lon="11.4439749" version="7" timestamp="2011-12-04T13:16:21Z" changeset="10032966" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="W 3"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="W 3"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="442669275" lat="54.0240482" lon="11.467227" version="12" timestamp="2011-11-28T21:19:48Z" changeset="9982377" uid="291382" user="cleanerx">
+		<tag k="description" v="sektorenwinkel geschätzt"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:1:colour" v="green"/>
+		<tag k="light:2:colour" v="white"/>
+		<tag k="light:2:range" v="18"/>
+		<tag k="light:3:colour" v="red"/>
+		<tag k="light:category" v="directional"/>
+		<tag k="light:description" v="Oc.WRG.5s23m18-13M"/>
+		<tag k="light:ele" v="23"/>
+		<tag k="light:ref" v="C 1398"/>
+		<tag k="light:signal_sequence" v="4+(1)"/>
+		<tag k="man_made" v="lighthouse"/>
+		<tag k="name" v="Gollwitz W"/>
+		<tag k="seamark" v="lighthouse"/>
+		<tag k="seamark:landmark:height" v="10"/>
+		<tag k="seamark:light:1:character" v="Oc"/>
+		<tag k="seamark:light:1:colour" v="red"/>
+		<tag k="seamark:light:1:radius" v="5"/>
+		<tag k="seamark:light:1:range" v="13"/>
+		<tag k="seamark:light:1:sector_end" v="84.0"/>
+		<tag k="seamark:light:1:sector_start" v="78.0"/>
+		<tag k="seamark:light:2:character" v="Oc"/>
+		<tag k="seamark:light:2:colour" v="white"/>
+		<tag k="seamark:light:2:radius" v="7"/>
+		<tag k="seamark:light:2:range" v="18"/>
+		<tag k="seamark:light:2:sector_end" v="87.0"/>
+		<tag k="seamark:light:2:sector_start" v="84.0"/>
+		<tag k="seamark:light:3:character" v="Oc"/>
+		<tag k="seamark:light:3:colour" v="green"/>
+		<tag k="seamark:light:3:radius" v="5"/>
+		<tag k="seamark:light:3:range" v="13"/>
+		<tag k="seamark:light:3:sector_end" v="116.0"/>
+		<tag k="seamark:light:3:sector_start" v="87.0"/>
+		<tag k="seamark:light:height" v="23"/>
+		<tag k="seamark:light:period" v="5"/>
+		<tag k="seamark:light:ref" v="C 1398"/>
+		<tag k="seamark:light:sequence" v="4+(1)"/>
+		<tag k="seamark:longname" v="Golwitz."/>
+		<tag k="seamark:name" v="Gollwitz W"/>
+		<tag k="seamark:type" v="landmark"/>
+	</node>
+	<node id="442669276" lat="54.0238262" lon="11.4705827" version="11" timestamp="2011-11-28T21:20:04Z" changeset="9982377" uid="291382" user="cleanerx">
+		<tag k="description" v="Leuchtfeuer Gollwitz-Nord"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:1:colour" v="red"/>
+		<tag k="light:1:range" v="16"/>
+		<tag k="light:2:colour" v="white"/>
+		<tag k="light:2:range" v="19"/>
+		<tag k="light:3:colour" v="green"/>
+		<tag k="light:3:range" v="14"/>
+		<tag k="light:category" v="directional"/>
+		<tag k="light:character" v="Iso"/>
+		<tag k="light:description" v="Iso.WRG.4s13m19-14M"/>
+		<tag k="light:ele" v="13"/>
+		<tag k="light:period" v="4"/>
+		<tag k="light:ref" v="C 1398.5"/>
+		<tag k="man_made" v="lighthouse"/>
+		<tag k="name" v="Gollwitz N"/>
+		<tag k="ref" v="C 1398.5"/>
+		<tag k="seamark" v="lighthouse"/>
+		<tag k="seamark:landmark:height" v="10"/>
+		<tag k="seamark:light:1:character" v="Iso"/>
+		<tag k="seamark:light:1:colour" v="green"/>
+		<tag k="seamark:light:1:radius" v="5"/>
+		<tag k="seamark:light:1:range" v="14"/>
+		<tag k="seamark:light:1:sector_end" v="164.5"/>
+		<tag k="seamark:light:1:sector_start" v="162.3"/>
+		<tag k="seamark:light:2:character" v="Iso"/>
+		<tag k="seamark:light:2:colour" v="white"/>
+		<tag k="seamark:light:2:radius" v="7"/>
+		<tag k="seamark:light:2:range" v="19"/>
+		<tag k="seamark:light:2:sector_end" v="166.0"/>
+		<tag k="seamark:light:2:sector_start" v="164.5"/>
+		<tag k="seamark:light:3:character" v="Iso"/>
+		<tag k="seamark:light:3:colour" v="red"/>
+		<tag k="seamark:light:3:radius" v="5"/>
+		<tag k="seamark:light:3:range" v="16"/>
+		<tag k="seamark:light:3:sector_end" v="168.3"/>
+		<tag k="seamark:light:3:sector_start" v="166.0"/>
+		<tag k="seamark:light:height" v="13"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:light:ref" v="C 1398.5"/>
+		<tag k="seamark:longname" v="N. side."/>
+		<tag k="seamark:name" v="Gollwitz N"/>
+		<tag k="seamark:type" v="landmark"/>
+	</node>
+	<node id="460492328" lat="53.9009858" lon="11.4424742" version="9" timestamp="2012-07-18T16:26:09Z" changeset="12288797" uid="110046" user="freietonne-db">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="W 5"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="W 5"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="473441983" lat="54.153879" lon="11.7735141" version="7" timestamp="2011-06-17T08:48:46Z" changeset="8462559" uid="128186" user="malcolmh">
+		<tag k="beacon" v="lateral_starboard"/>
+		<tag k="beacon:colour" v="green"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:description" v="F.G.6m4M"/>
+		<tag k="light:ele" v="6"/>
+		<tag k="light:range" v="4"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:beacon_lateral:category" v="starboard"/>
+		<tag k="seamark:beacon_lateral:colour" v="green"/>
+		<tag k="seamark:beacon_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="F"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:height" v="6"/>
+		<tag k="seamark:light:range" v="4"/>
+		<tag k="seamark:type" v="beacon_lateral"/>
+	</node>
+	<node id="473441984" lat="54.1535984" lon="11.7723827" version="8" timestamp="2011-06-17T08:47:42Z" changeset="8462559" uid="128186" user="malcolmh">
+		<tag k="beacon" v="lateral_port"/>
+		<tag k="beacon:colour" v="red"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:description" v="F.R.6m4M"/>
+		<tag k="light:ele" v="6"/>
+		<tag k="light:range" v="4"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:beacon_lateral:category" v="port"/>
+		<tag k="seamark:beacon_lateral:colour" v="red"/>
+		<tag k="seamark:beacon_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="F"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:height" v="6"/>
+		<tag k="seamark:light:range" v="4"/>
+		<tag k="seamark:type" v="beacon_lateral"/>
+	</node>
+	<node id="474767292" lat="53.8939874" lon="11.4554574" version="11" timestamp="2011-12-27T10:38:49Z" changeset="10214453" uid="139976" user="CyberNautiker">
+		<tag k="beacon:colour" v="red"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=10172"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:category" v="leading"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Oc.R.4s46m"/>
+		<tag k="light:ele" v="46"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="Wismar Rear Lt"/>
+		<tag k="ref" v="C 1392.1"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:beacon_special_purpose:category" v="leading"/>
+		<tag k="seamark:beacon_special_purpose:colour" v="white"/>
+		<tag k="seamark:beacon_special_purpose:height" v="43"/>
+		<tag k="seamark:light:category" v="rear"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:height" v="46"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:light:range" v="12"/>
+		<tag k="seamark:light:reference" v="C 1392.1"/>
+		<tag k="seamark:light:sequence" v="3+(1)"/>
+		<tag k="seamark:longname" v="Rear, about 700 meters 149° 54′  from front."/>
+		<tag k="seamark:name" v="Wismar Rear Lt"/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+		<tag k="topmark" v="yes"/>
+	</node>
+	<node id="474767298" lat="53.8994899" lon="11.4500587" version="10" timestamp="2011-12-27T10:38:52Z" changeset="10214453" uid="139976" user="CyberNautiker">
+		<tag k="light" v="yes"/>
+		<tag k="light:category" v="leading"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Oc.R.4s28m"/>
+		<tag k="light:ele" v="28"/>
+		<tag k="light:period" v="4"/>
+		<tag k="ref" v="C 1392"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:beacon_special_purpose:category" v="leading"/>
+		<tag k="seamark:beacon_special_purpose:colour" v="white"/>
+		<tag k="seamark:beacon_special_purpose:height" v="26"/>
+		<tag k="seamark:light:category" v="front"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:height" v="28"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:light:range" v="12"/>
+		<tag k="seamark:light:reference" v="C 1392"/>
+		<tag k="seamark:light:sequence" v="3+(1)"/>
+		<tag k="seamark:longname" v="Range, front."/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+	</node>
+	<node id="475339201" lat="53.9001707" lon="11.4549599" version="7" timestamp="2011-12-10T09:13:15Z" changeset="10079287" uid="139976" user="CyberNautiker">
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="white"/>
+		<tag k="light:description" v="Oc.W.2s"/>
+		<tag k="light:period" v="2"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:beacon_special_purpose:colour" v="white"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:period" v="2"/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+	</node>
+	<node id="475339202" lat="53.9000642" lon="11.4554191" version="4" timestamp="2011-12-12T21:32:03Z" changeset="10103280" uid="128186" user="malcolmh">
+		<tag k="seamark:mooring:category" v="dolphin"/>
+		<tag k="seamark:type" v="mooring"/>
+	</node>
+	<node id="475339203" lat="53.8999751" lon="11.4557774" version="4" timestamp="2011-12-12T21:32:04Z" changeset="10103280" uid="128186" user="malcolmh">
+		<tag k="seamark:mooring:category" v="dolphin"/>
+		<tag k="seamark:type" v="mooring"/>
+	</node>
+	<node id="475339204" lat="53.8998404" lon="11.456258" version="4" timestamp="2011-12-12T21:32:04Z" changeset="10103280" uid="128186" user="malcolmh">
+		<tag k="seamark:mooring:category" v="dolphin"/>
+		<tag k="seamark:type" v="mooring"/>
+	</node>
+	<node id="475339206" lat="53.8997589" lon="11.4566218" version="4" timestamp="2011-12-12T21:32:04Z" changeset="10103280" uid="128186" user="malcolmh">
+		<tag k="seamark:mooring:category" v="dolphin"/>
+		<tag k="seamark:type" v="mooring"/>
+	</node>
+	<node id="475339207" lat="53.8996518" lon="11.4570525" version="4" timestamp="2011-12-12T21:32:04Z" changeset="10103280" uid="128186" user="malcolmh">
+		<tag k="seamark:mooring:category" v="dolphin"/>
+		<tag k="seamark:type" v="mooring"/>
+	</node>
+	<node id="476002250" lat="53.9491917" lon="11.3554671" version="7" timestamp="2011-12-04T12:47:59Z" changeset="10032730" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="HW 2"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="HW 2"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="476013920" lat="53.9452783" lon="11.3308992" version="3" timestamp="2011-12-04T12:48:01Z" changeset="10032730" uid="139976" user="CyberNautiker">
+		<tag k="light:category" v="rear"/>
+		<tag k="ref" v="C 1382.1"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:beacon_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:beacon_special_purpose:shape" v="tower"/>
+		<tag k="seamark:light:category" v="rear"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:height" v="39"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:light:range" v="16"/>
+		<tag k="seamark:light:ref" v="C 1382.1"/>
+		<tag k="seamark:light:sequence" v="3+(1)"/>
+		<tag k="seamark:longname" v="Rear, about 1.4 km. 180° 18′  from front."/>
+		<tag k="seamark:name" v="Hohen Wieschendorf rear"/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+	</node>
+	<node id="489327237" lat="54.186535" lon="11.6538777" version="2" timestamp="2012-10-31T13:27:36Z" changeset="13698851" uid="31385" user="Skippern">
+		<tag k="ft_link" v="www.freietonne.de?edit=11227"/>
+		<tag k="name" v="Wreck"/>
+		<tag k="seamark:type" v="wreck"/>
+		<tag k="waterway" v="wreck"/>
+	</node>
+	<node id="491397161" lat="54.1140261" lon="11.5979709" version="5" timestamp="2011-12-02T05:12:08Z" changeset="10014251" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="special_purpose"/>
+		<tag k="buoy:colour" v="yellow"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="ft_symbol" v="314"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="yellow"/>
+		<tag k="light:description" v="Fl(5)Y.20s"/>
+		<tag k="light:period" v="20"/>
+		<tag k="light:signal_group" v="5"/>
+		<tag k="name" v="ODAS"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:buoy_special_purpose:shape" v="spar"/>
+		<tag k="seamark:light:character" v="Fl"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:group" v="5"/>
+		<tag k="seamark:light:period" v="20"/>
+		<tag k="seamark:name" v="ODAS"/>
+		<tag k="seamark:type" v="buoy_special_purpose"/>
+	</node>
+	<node id="491397171" lat="54.1573487" lon="11.7685914" version="10" timestamp="2012-11-27T14:47:45Z" changeset="14059820" uid="128186" user="malcolmh">
+		<tag k="FIXME" v="Tag mit light:% scheinen identsich mit seamark:light:%"/>
+		<tag k="beacon" v="isolated_danger"/>
+		<tag k="beacon:colour" v="black;red;black"/>
+		<tag k="beacon:shape" v="spar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=16392"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="white"/>
+		<tag k="light:description" v="Fl(2)W.5s"/>
+		<tag k="light:period" v="5"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="Beacon, isolated danger (light)"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:buoy_cardinal:category" v="north"/>
+		<tag k="seamark:buoy_cardinal:colour" v="black;yellow"/>
+		<tag k="seamark:buoy_cardinal:colour_pattern" v="horizontal"/>
+		<tag k="seamark:buoy_cardinal:shape" v="spar"/>
+		<tag k="seamark:light:character" v="Fl"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:period" v="5"/>
+		<tag k="seamark:topmark:colour" v="black"/>
+		<tag k="seamark:topmark:shape" v="2 cones up"/>
+		<tag k="seamark:type" v="buoy_cardinal"/>
+		<tag k="topmark" v="yes"/>
+	</node>
+	<node id="491476359" lat="53.9949364" lon="11.4436329" version="3" timestamp="2011-12-04T12:22:19Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="beacon" v="cardinal_east"/>
+		<tag k="beacon:colour" v="black-yellow-black"/>
+		<tag k="beacon:shape" v="spar"/>
+		<tag k="ft_symbol" v="243"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:beacon_cardinal:category" v="east"/>
+		<tag k="seamark:beacon_cardinal:colour" v="black;yellow;black"/>
+		<tag k="seamark:beacon_cardinal:colour_pattern" v="horizontal"/>
+		<tag k="seamark:topmark:colour" v="black"/>
+		<tag k="seamark:topmark:shape" v="2 cones base together"/>
+		<tag k="seamark:type" v="beacon_cardinal"/>
+		<tag k="topmark" v="yes"/>
+	</node>
+	<node id="491476361" lat="53.9949658" lon="11.4433215" version="2" timestamp="2011-12-04T12:22:20Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="beacon" v="cardinal_west"/>
+		<tag k="beacon:colour" v="yellow-black-yellow"/>
+		<tag k="beacon:shape" v="spar"/>
+		<tag k="ft_symbol" v="247"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:beacon_cardinal:category" v="west"/>
+		<tag k="seamark:beacon_cardinal:colour" v="yellow;black;yellow"/>
+		<tag k="seamark:beacon_cardinal:colour_pattern" v="horizontal"/>
+		<tag k="seamark:topmark:colour" v="black"/>
+		<tag k="seamark:topmark:shape" v="2 cones point together"/>
+		<tag k="seamark:type" v="beacon_cardinal"/>
+		<tag k="topmark" v="no"/>
+	</node>
+	<node id="491476392" lat="53.9951762" lon="11.4396326" version="3" timestamp="2012-12-14T16:03:16Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="leisure" v="slipway"/>
+		<tag k="seamark:small_craft_facility:category" v="slipway"/>
+		<tag k="seamark:type" v="small_craft_facility"/>
+	</node>
+	<node id="491520321" lat="53.9906717" lon="11.4426013" version="3" timestamp="2011-12-04T12:22:14Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="ft_symbol" v="5"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Fl.G.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="13"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="13"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="491520323" lat="53.9488594" lon="11.3499954" version="2" timestamp="2011-12-04T12:48:00Z" changeset="10032730" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="HW 3"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="HW 3"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="491520327" lat="53.9508414" lon="11.3586682" version="4" timestamp="2011-12-04T12:47:59Z" changeset="10032730" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="HW 1"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="HW 1"/>
+		<tag k="seamark:topmark:colour" v="green"/>
+		<tag k="seamark:topmark:shape" v="cone, point up"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="491520330" lat="53.9482125" lon="11.3499588" version="4" timestamp="2011-12-04T12:48:00Z" changeset="10032730" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="HW 4"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="HW 4"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="cylinder"/>
+	</node>
+	<node id="491520339" lat="53.9557427" lon="11.4428632" version="2" timestamp="2011-12-04T12:22:20Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="cardinal_west"/>
+		<tag k="buoy:colour" v="black-yellow-black"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="ft_symbol" v="18"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_cardinal:category" v="west"/>
+		<tag k="seamark:buoy_cardinal:colour" v="yellow;black;yellow"/>
+		<tag k="seamark:buoy_cardinal:colour_pattern" v="horizontal"/>
+		<tag k="seamark:buoy_cardinal:shape" v="spar"/>
+		<tag k="seamark:topmark:colour" v="black"/>
+		<tag k="seamark:topmark:shape" v="2 cones point together"/>
+		<tag k="seamark:type" v="buoy_cardinal"/>
+		<tag k="topmark" v="yes"/>
+	</node>
+	<node id="506455913" lat="53.9084726" lon="11.435612" version="2" timestamp="2012-12-14T16:03:16Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="leisure" v="slipway"/>
+		<tag k="seamark:small_craft_facility:category" v="slipway"/>
+		<tag k="seamark:type" v="small_craft_facility"/>
+	</node>
+	<node id="506457689" lat="53.9091956" lon="11.4350932" version="6" timestamp="2012-12-14T16:03:16Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="leisure" v="slipway"/>
+		<tag k="operating" v="hand"/>
+		<tag k="seamark:small_craft_facility:category" v="slipway"/>
+		<tag k="seamark:type" v="small_craft_facility"/>
+	</node>
+	<node id="571061385" lat="54.0108801" lon="11.3678108" version="3" timestamp="2011-08-16T08:13:38Z" changeset="9034301" uid="128186" user="malcolmh">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="Flaggtief 4"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="Flaggtief 4"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="571061399" lat="53.9942275" lon="11.4422859" version="5" timestamp="2011-12-04T12:22:16Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=16189"/>
+		<tag k="name" v="15"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="15"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="571061403" lat="53.9936866" lon="11.4420291" version="3" timestamp="2011-12-04T12:22:17Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="16"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="16"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="571103501" lat="53.965" lon="11.4" version="4" timestamp="2011-12-27T10:38:46Z" changeset="10214453" uid="139976" user="CyberNautiker">
+		<tag k="light" v="yes"/>
+		<tag k="light:category" v="leading"/>
+		<tag k="light:character" v="Iso"/>
+		<tag k="light:colour" v="white"/>
+		<tag k="light:description" v="Iso.4s24m7M"/>
+		<tag k="light:ele" v="17"/>
+		<tag k="light:period" v="4"/>
+		<tag k="light:range" v="7"/>
+		<tag k="name" v="Poel"/>
+		<tag k="ref" v="C 1388.1"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:beacon_special_purpose:category" v="leading"/>
+		<tag k="seamark:beacon_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:beacon_special_purpose:height" v="19"/>
+		<tag k="seamark:light:category" v="rear"/>
+		<tag k="seamark:light:character" v="Iso"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:height" v="19"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:light:range" v="17"/>
+		<tag k="seamark:light:reference" v="C 1388.1"/>
+		<tag k="seamark:longname" v="Rear, 2 km. 339° 30′  from Poel common front."/>
+		<tag k="seamark:name" v="Poel"/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+	</node>
+	<node id="571112762" lat="53.9433333" lon="11.4233333" version="5" timestamp="2011-12-27T10:23:40Z" changeset="10214324" uid="139976" user="CyberNautiker">
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="white"/>
+		<tag k="light:description" v="Oc(2)9s30m7M"/>
+		<tag k="light:ele" v="30"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:range" v="7"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="Walfisch Rear Lt"/>
+		<tag k="ref" v="C 1387.9"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:beacon_special_purpose:colour" v="gray"/>
+		<tag k="seamark:beacon_special_purpose:shape" v="pole"/>
+		<tag k="seamark:landmark:height" v="15"/>
+		<tag k="seamark:light:1:colour" v="green"/>
+		<tag k="seamark:light:1:radius" v="0.7"/>
+		<tag k="seamark:light:1:range" v="7"/>
+		<tag k="seamark:light:1:sector_end" v="120"/>
+		<tag k="seamark:light:1:sector_start" v="56"/>
+		<tag k="seamark:light:2:colour" v="white"/>
+		<tag k="seamark:light:2:radius" v="1.11"/>
+		<tag k="seamark:light:2:range" v="11"/>
+		<tag k="seamark:light:2:sector_end" v="129"/>
+		<tag k="seamark:light:2:sector_start" v="120"/>
+		<tag k="seamark:light:3:colour" v="red"/>
+		<tag k="seamark:light:3:radius" v="0.8"/>
+		<tag k="seamark:light:3:range" v="8"/>
+		<tag k="seamark:light:3:sector_end" v="185.0"/>
+		<tag k="seamark:light:3:sector_start" v="129.0"/>
+		<tag k="seamark:light:4:colour" v="white"/>
+		<tag k="seamark:light:4:radius" v="1.1"/>
+		<tag k="seamark:light:4:range" v="11"/>
+		<tag k="seamark:light:4:sector_end" v="56"/>
+		<tag k="seamark:light:4:sector_start" v="185"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:height" v="17"/>
+		<tag k="seamark:light:period" v="9"/>
+		<tag k="seamark:light:ref" v="C 1387.9"/>
+		<tag k="seamark:light:sequence" v="2+(1)+5+(1)"/>
+		<tag k="seamark:longname" v="Insel Walfisch, rear, 914 meters 123° 54′  from Poel common front."/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+	</node>
+	<node id="571175641" lat="53.9396019" lon="11.4106886" version="3" timestamp="2011-12-27T10:23:39Z" changeset="10214324" uid="139976" user="CyberNautiker">
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="white"/>
+		<tag k="light:description" v="Oc.4s24m7M"/>
+		<tag k="light:ele" v="24"/>
+		<tag k="light:period" v="4"/>
+		<tag k="light:range" v="7"/>
+		<tag k="name" v="Fliemstorf"/>
+		<tag k="ref" v="C 1390.1"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:landmark:height" v="16"/>
+		<tag k="seamark:light:category" v="rear"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:height" v="18"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:light:range" v="17"/>
+		<tag k="seamark:light:ref" v="C 1390.1"/>
+		<tag k="seamark:light:sequence" v="3+(1)"/>
+		<tag k="seamark:longname" v="Rear, about 1.5 km., 329° 54′  from front."/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+	</node>
+	<node id="571175642" lat="53.9298907" lon="11.4202516" version="4" timestamp="2011-12-27T10:23:37Z" changeset="10214324" uid="139976" user="CyberNautiker">
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="white"/>
+		<tag k="light:description" v="Oc.4s10m7M"/>
+		<tag k="light:ele" v="10"/>
+		<tag k="light:period" v="4"/>
+		<tag k="light:range" v="7"/>
+		<tag k="name" v="Fliemstorf"/>
+		<tag k="ref" v="C 1390"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:landmark:height" v="4"/>
+		<tag k="seamark:light:category" v="front"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:height" v="6"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:light:range" v="12"/>
+		<tag k="seamark:light:ref" v="C 1390"/>
+		<tag k="seamark:light:sequence" v="3+(1)"/>
+		<tag k="seamark:longname" v="Fliemstorf Range, front."/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+	</node>
+	<node id="571190919" lat="53.9179627" lon="11.4297032" version="4" timestamp="2011-12-27T10:38:48Z" changeset="10214453" uid="139976" user="CyberNautiker">
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Iso"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Iso.R.4s10m6M"/>
+		<tag k="light:ele" v="10"/>
+		<tag k="light:period" v="4"/>
+		<tag k="light:range" v="6"/>
+		<tag k="name" v="Wendorf"/>
+		<tag k="ref" v="C 1388.6"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:beacon_special_purpose:colour" v="www"/>
+		<tag k="seamark:beacon_special_purpose:height" v="4"/>
+		<tag k="seamark:light:category" v="front"/>
+		<tag k="seamark:light:character" v="Iso"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:height" v="6"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:light:range" v="12"/>
+		<tag k="seamark:light:reference" v="C 1388.6"/>
+		<tag k="seamark:longname" v="Wendorf Seebad Range, front."/>
+		<tag k="seamark:name" v="Wendorf"/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+	</node>
+	<node id="571190920" lat="53.9074492" lon="11.4363413" version="5" timestamp="2011-12-27T10:38:53Z" changeset="10214453" uid="139976" user="CyberNautiker">
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Iso"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Iso.R.4s24m6M"/>
+		<tag k="light:ele" v="24"/>
+		<tag k="light:period" v="4"/>
+		<tag k="light:range" v="6"/>
+		<tag k="ref" v="C 1388.7"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:beacon_special_purpose:category" v="leading"/>
+		<tag k="seamark:beacon_special_purpose:colour" v="white"/>
+		<tag k="seamark:beacon_special_purpose:height" v="17"/>
+		<tag k="seamark:light:category" v="rear"/>
+		<tag k="seamark:light:character" v="Iso"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:height" v="18"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:light:range" v="17"/>
+		<tag k="seamark:light:reference" v="C 1388.7"/>
+		<tag k="seamark:longname" v="Rear, about 1.7 km. 159° 30′  from front."/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+	</node>
+	<node id="571190921" lat="53.9574739" lon="11.4385355" version="4" timestamp="2011-12-04T12:22:06Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=16195"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Q"/>
+		<tag k="light:description" v="Q.G"/>
+		<tag k="name" v="Kirchdorf 1"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Q"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:name" v="Kirchdorf 1"/>
+		<tag k="seamark:topmark:colour" v="green"/>
+		<tag k="seamark:topmark:shape" v="cone, point up"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="571190922" lat="53.9633696" lon="11.4387844" version="2" timestamp="2011-12-04T12:22:17Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="3"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="3"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="571190923" lat="53.9633019" lon="11.4383626" version="2" timestamp="2011-12-04T12:22:07Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="red"/>
+		<tag k="light:description" v="Oc(2)R.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="Kirchdorf 4"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:name" v="Kirchdorf 4"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="571190924" lat="53.9707647" lon="11.4389056" version="3" timestamp="2011-12-04T12:22:21Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Fl"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Fl.G.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="5"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="5"/>
+		<tag k="seamark:topmark:colour" v="green"/>
+		<tag k="seamark:topmark:shape" v="cone, point up"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="green"/>
+		<tag k="topmark:shape" v="cone"/>
+	</node>
+	<node id="571190926" lat="53.9708338" lon="11.4383386" version="3" timestamp="2011-12-04T12:22:22Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="6"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="6"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="571190928" lat="53.9758817" lon="11.4393246" version="3" timestamp="2011-12-04T12:22:24Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="8"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="8"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="571190929" lat="53.9758843" lon="11.4398117" version="3" timestamp="2011-12-04T12:22:23Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="7"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="7"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="571190931" lat="53.9806019" lon="11.4407102" version="3" timestamp="2011-12-04T12:22:24Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Oc"/>
+		<tag k="light:colour" v="green"/>
+		<tag k="light:description" v="Oc(2)G.9s"/>
+		<tag k="light:period" v="9"/>
+		<tag k="light:signal_group" v="2"/>
+		<tag k="name" v="9"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="9"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="571190935" lat="53.9806353" lon="11.4402751" version="3" timestamp="2011-12-04T12:22:12Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="10"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="10"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="571190936" lat="53.9865305" lon="11.4419714" version="3" timestamp="2011-12-04T12:22:13Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="11"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="11"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="571190937" lat="53.9865277" lon="11.4413807" version="3" timestamp="2011-12-04T12:22:14Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="12"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="12"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="571190938" lat="53.990684" lon="11.4422235" version="3" timestamp="2011-12-04T12:22:15Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_port"/>
+		<tag k="buoy:colour" v="red"/>
+		<tag k="buoy:shape" v="spar"/>
+		<tag k="name" v="14"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="14"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="571190970" lat="53.991635" lon="11.3737297" version="2" timestamp="2010-05-27T22:50:42Z" changeset="4826750" uid="123823" user="leo12305">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="pillar"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="571213015" lat="53.9005505" lon="11.4397938" version="2" timestamp="2011-12-04T13:16:22Z" changeset="10032966" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="lateral_starboard"/>
+		<tag k="buoy:colour" v="green"/>
+		<tag k="buoy:shape" v="conical"/>
+		<tag k="name" v="W 9"/>
+		<tag k="seamark:buoy_lateral:category" v="starboard"/>
+		<tag k="seamark:buoy_lateral:colour" v="green"/>
+		<tag k="seamark:buoy_lateral:shape" v="conical"/>
+		<tag k="seamark:buoy_lateral:system" v="iala-a"/>
+		<tag k="seamark:name" v="W 9"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="574307788" lat="54.1559626" lon="11.7373125" version="5" timestamp="2011-08-23T21:22:31Z" changeset="9107813" uid="128186" user="malcolmh">
+		<tag k="beacon" v="isolated_danger"/>
+		<tag k="beacon:colour" v="black-red-black"/>
+		<tag k="beacon:shape" v="spar"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:beacon_isolated_danger:colour" v="black;red;black"/>
+		<tag k="seamark:beacon_isolated_danger:colour_pattern" v="horizontal"/>
+		<tag k="seamark:topmark:colour" v="black"/>
+		<tag k="seamark:topmark:shape" v="2 spheres"/>
+		<tag k="seamark:type" v="beacon_isolated_danger"/>
+		<tag k="topmark" v="yes"/>
+	</node>
+	<node id="574334852" lat="54.1627" lon="11.2737" version="4" timestamp="2011-09-25T11:33:18Z" changeset="9391673" uid="128186" user="malcolmh">
+		<tag k="buoy" v="safe_water"/>
+		<tag k="buoy:colour" v="red-white"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Iso"/>
+		<tag k="light:colour" v="white"/>
+		<tag k="light:description" v="Iso.W.4s"/>
+		<tag k="light:period" v="4"/>
+		<tag k="name" v="2"/>
+		<tag k="note" v="Lübeck-Gedser-Weg 2"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_safe_water:colour" v="red;white"/>
+		<tag k="seamark:buoy_safe_water:colour_pattern" v="vertical"/>
+		<tag k="seamark:buoy_safe_water:shape" v="pillar"/>
+		<tag k="seamark:light:character" v="Iso"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:name" v="2"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="sphere"/>
+		<tag k="seamark:type" v="buoy_safe_water"/>
+		<tag k="topmark" v="yes"/>
+		<tag k="topmark:colour" v="red"/>
+		<tag k="topmark:shape" v="sphere"/>
+	</node>
+	<node id="574838057" lat="54.1009444" lon="11.3240572" version="2" timestamp="2011-11-25T02:51:18Z" changeset="9939905" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="cardinal_east"/>
+		<tag k="buoy:colour" v="black-yellow-black"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Q"/>
+		<tag k="light:colour" v="white"/>
+		<tag k="light:description" v="Q(3)W.10s"/>
+		<tag k="light:period" v="10"/>
+		<tag k="light:signal_group" v="3"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_cardinal:category" v="east"/>
+		<tag k="seamark:buoy_cardinal:colour" v="black;yellow;black"/>
+		<tag k="seamark:buoy_cardinal:colour_pattern" v="horizontal"/>
+		<tag k="seamark:buoy_cardinal:shape" v="pillar"/>
+		<tag k="seamark:light:character" v="Q"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:group" v="3"/>
+		<tag k="seamark:light:period" v="10"/>
+		<tag k="seamark:topmark:colour" v="black"/>
+		<tag k="seamark:topmark:shape" v="2 cones base together"/>
+		<tag k="seamark:type" v="buoy_cardinal"/>
+		<tag k="topmark" v="yes"/>
+	</node>
+	<node id="574838058" lat="54.1009427" lon="11.3183236" version="2" timestamp="2011-11-25T02:51:19Z" changeset="9939905" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="cardinal_west"/>
+		<tag k="buoy:colour" v="yellow-black-yellow"/>
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Q"/>
+		<tag k="light:colour" v="white"/>
+		<tag k="light:description" v="Q(9)W.15s"/>
+		<tag k="light:period" v="15"/>
+		<tag k="light:signal_group" v="9"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_cardinal:category" v="west"/>
+		<tag k="seamark:buoy_cardinal:colour" v="yellow;black;yellow"/>
+		<tag k="seamark:buoy_cardinal:colour_pattern" v="horizontal"/>
+		<tag k="seamark:buoy_cardinal:shape" v="pillar"/>
+		<tag k="seamark:light:character" v="Q"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:group" v="9"/>
+		<tag k="seamark:light:period" v="15"/>
+		<tag k="seamark:topmark:colour" v="black"/>
+		<tag k="seamark:topmark:shape" v="2 cones point together"/>
+		<tag k="seamark:type" v="buoy_cardinal"/>
+		<tag k="topmark" v="yes"/>
+	</node>
+	<node id="619209949" lat="54.194361" lon="11.121944" version="7" timestamp="2012-07-18T16:43:10Z" changeset="12289304" uid="110046" user="freietonne-db">
+		<tag k="buoy" v="cardinal_east"/>
+		<tag k="name" v="Schwarzer Grund-O"/>
+		<tag k="note" v="WP1872"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_cardinal:category" v="east"/>
+		<tag k="seamark:buoy_cardinal:colour" v="black;yellow;black"/>
+		<tag k="seamark:buoy_cardinal:colour_pattern" v="horizontal"/>
+		<tag k="seamark:buoy_cardinal:shape" v="pillar"/>
+		<tag k="seamark:name" v="Schwarzer Grund-O"/>
+		<tag k="seamark:topmark:colour" v="black"/>
+		<tag k="seamark:topmark:shape" v="2 cones base together"/>
+		<tag k="seamark:type" v="buoy_cardinal"/>
+		<tag k="seamark:waypoint" v="WP1872"/>
+	</node>
+	<node id="732715893" lat="53.97403" lon="11.24731" version="4" timestamp="2012-12-14T16:03:14Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="addr:city" v="Boltenhagen"/>
+		<tag k="addr:country" v="DE"/>
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="23946"/>
+		<tag k="addr:street" v="Zum Hafen"/>
+		<tag k="amenity" v="fuel"/>
+		<tag k="fuel:cng" v="no"/>
+		<tag k="fuel:lpg" v="yes"/>
+		<tag k="name" v="Marina Boltenhagen GmbH..."/>
+		<tag k="opening_hours" v="Mo-Fr 07:00-18:00; Sa 09:00-16:00; Su 09:00-16:00"/>
+		<tag k="seamark:small_craft_facility:category" v="fuel_station"/>
+		<tag k="seamark:type" v="small_craft_facility"/>
+		<tag k="source" v="http://www.gas-tankstellen.de"/>
+		<tag k="website" v="http://www.gas-tankstellen.de"/>
+	</node>
+	<node id="924251180" lat="55.4241723" lon="13.0619873" version="2" timestamp="2012-06-14T10:08:25Z" changeset="11893373" uid="544675" user="Obelixx">
+		<tag k="designation" v="40"/>
+		<tag k="power" v="tower"/>
+		<tag k="source" v="Yahoo"/>
+	</node>
+	<node id="924266998" lat="53.8957927" lon="10.8024232" version="2" timestamp="2011-01-14T00:53:43Z" changeset="6963423" uid="52495" user="seawolff"/>
+	<node id="924266999" lat="53.8936032" lon="10.8121356" version="1" timestamp="2010-09-24T16:34:10Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267001" lat="53.8976493" lon="10.8343443" version="1" timestamp="2010-09-24T16:34:10Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267004" lat="53.9022892" lon="10.8443007" version="1" timestamp="2010-09-24T16:34:10Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267007" lat="53.9058162" lon="10.8491287" version="1" timestamp="2010-09-24T16:34:10Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267008" lat="53.9136782" lon="10.8679041" version="1" timestamp="2010-09-24T16:34:10Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267009" lat="53.9181899" lon="10.8724746" version="1" timestamp="2010-09-24T16:34:10Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267010" lat="53.9535467" lon="10.9036526" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267013" lat="53.9572082" lon="10.9043822" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267016" lat="53.9745899" lon="10.9279212" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267019" lat="53.994853" lon="10.9834966" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267021" lat="54.0083479" lon="11.025382" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267022" lat="54.017073" lon="11.0751638" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267023" lat="54.0192162" lon="11.1270913" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267024" lat="54.0196953" lon="11.1788472" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267025" lat="54.0091549" lon="11.2217197" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267026" lat="53.9920274" lon="11.2673387" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267035" lat="53.999419" lon="11.3673744" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267037" lat="54.0184346" lon="11.397973" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267038" lat="54.0305607" lon="11.450201" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267041" lat="54.0637696" lon="11.5036735" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267042" lat="54.1011293" lon="11.5465888" version="1" timestamp="2010-09-24T16:34:11Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267044" lat="54.1322702" lon="11.6273555" version="1" timestamp="2010-09-24T16:34:12Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267045" lat="54.1627345" lon="11.6797981" version="1" timestamp="2010-09-24T16:34:12Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267046" lat="54.1646943" lon="11.7556724" version="1" timestamp="2010-09-24T16:34:12Z" changeset="5864339" uid="13203" user="bahnpirat"/>
+	<node id="924267047" lat="54.187479" lon="11.8223255" version="2" timestamp="2012-04-04T15:21:59Z" changeset="11177948" uid="544675" user="Obelixx"/>
+	<node id="1102766381" lat="53.8949321" lon="10.803246" version="1" timestamp="2011-01-14T00:53:43Z" changeset="6963423" uid="52495" user="seawolff"/>
+	<node id="1140832677" lat="53.972301" lon="11.250806" version="2" timestamp="2011-11-29T20:57:31Z" changeset="9992415" uid="291382" user="cleanerx">
+		<tag k="beacon" v="lateral_starboard"/>
+		<tag k="beacon:colour" v="green"/>
+		<tag k="description" v="Ansteuerung grün"/>
+		<tag k="light" v="yes"/>
+		<tag k="name" v="Beacon, green (top + light)"/>
+		<tag k="ref" v="C 1380.2"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:light:character" v="F"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:height" v="6"/>
+		<tag k="seamark:light:range" v="4"/>
+		<tag k="seamark:light:ref" v="C 1380.2"/>
+		<tag k="seamark:longname" v="Boltenhagen, E. mole, head."/>
+		<tag k="seamark:type" v="light_minor"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+		<tag k="topmark" v="yes"/>
+	</node>
+	<node id="1140832679" lat="53.9715689" lon="11.2503769" version="2" timestamp="2011-11-29T20:57:31Z" changeset="9992415" uid="291382" user="cleanerx">
+		<tag k="beacon" v="lateral_port"/>
+		<tag k="beacon:colour" v="red"/>
+		<tag k="description" v="Ansteuerung Rot"/>
+		<tag k="light" v="yes"/>
+		<tag k="name" v="Beacon, red (top + light)"/>
+		<tag k="ref" v="C 1380.3"/>
+		<tag k="seamark" v="beacon"/>
+		<tag k="seamark:light:character" v="F"/>
+		<tag k="seamark:light:colour" v="red"/>
+		<tag k="seamark:light:height" v="6"/>
+		<tag k="seamark:light:range" v="4"/>
+		<tag k="seamark:light:ref" v="C 1380.3"/>
+		<tag k="seamark:longname" v="W. mole, head."/>
+		<tag k="seamark:type" v="light_minor"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+		<tag k="topmark" v="yes"/>
+	</node>
+	<node id="1350325188" lat="54.23776" lon="11.07166" version="1" timestamp="2011-07-05T13:56:43Z" changeset="8639360" uid="481465" user="schwaha">
+		<tag k="note" v="Zufahrt Yachthafen Großenbrode Fähre  Steuerbordtonne nicht vorhanden"/>
+		<tag k="seamark:buoy_lateral:category" v="port"/>
+		<tag k="seamark:buoy_lateral:colour" v="red"/>
+		<tag k="seamark:buoy_lateral:shape" v="spar"/>
+		<tag k="seamark:type" v="buoy_lateral"/>
+	</node>
+	<node id="1467046972" lat="53.9097824" lon="11.436834" version="4" timestamp="2012-12-14T16:03:15Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="email" v="info@ycwismar.de"/>
+		<tag k="leisure" v="marina"/>
+		<tag k="name" v="Yachtclub Wismar 61 e.V."/>
+		<tag k="phone" v="+49 3841 635053"/>
+		<tag k="seamark:harbour:category" v="marina"/>
+		<tag k="seamark:name" v="Yachtclub Wismar 61 e.V."/>
+		<tag k="seamark:type" v="harbour"/>
+		<tag k="website" v="http://www.ycwismar.de"/>
+	</node>
+	<node id="1521838150" lat="54.1166667" lon="11.4333333" version="1" timestamp="2011-11-28T21:11:56Z" changeset="9982295" uid="291382" user="cleanerx">
+		<tag k="seamark:fixme" v="please_fix_position"/>
+		<tag k="seamark:light:character" v="Iso"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:longname" v="Buoy Wismar."/>
+		<tag k="seamark:type" v="light_minor"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+	</node>
+	<node id="1521838996" lat="53.9883333" lon="11.305" version="8" timestamp="2011-12-27T10:38:50Z" changeset="10214453" uid="139976" user="CyberNautiker">
+		<tag k="ref" v="C 1386.4"/>
+		<tag k="seamark:beacon_special_purpose:category" v="leading"/>
+		<tag k="seamark:beacon_special_purpose:colour" v="white"/>
+		<tag k="seamark:beacon_special_purpose:height" v="10"/>
+		<tag k="seamark:light:1:category" v="directional"/>
+		<tag k="seamark:light:1:character" v="Oc"/>
+		<tag k="seamark:light:1:colour" v="green"/>
+		<tag k="seamark:light:1:height" v="10"/>
+		<tag k="seamark:light:1:period" v="12"/>
+		<tag k="seamark:light:1:range" v="7"/>
+		<tag k="seamark:light:1:sequence" v="4.5+(1.5)+4.5+(1.5)"/>
+		<tag k="seamark:light:2:category" v="directional"/>
+		<tag k="seamark:light:2:character" v="Oc"/>
+		<tag k="seamark:light:2:colour" v="white"/>
+		<tag k="seamark:light:2:height" v="10"/>
+		<tag k="seamark:light:2:period" v="12"/>
+		<tag k="seamark:light:2:radius" v="0.7"/>
+		<tag k="seamark:light:2:range" v="7"/>
+		<tag k="seamark:light:2:sequence" v="4.5+(1.5)+4.5+(1.5)"/>
+		<tag k="seamark:light:3:category" v="directional"/>
+		<tag k="seamark:light:3:character" v="F"/>
+		<tag k="seamark:light:3:colour" v="white"/>
+		<tag k="seamark:light:3:radius" v="0.7"/>
+		<tag k="seamark:light:4:category" v="directional"/>
+		<tag k="seamark:light:4:character" v="F"/>
+		<tag k="seamark:light:4:colour" v="white"/>
+		<tag k="seamark:light:4:radius" v="0.7"/>
+		<tag k="seamark:light:4:sequence" v="1.5+(4.5)+1.5+(4.5)"/>
+		<tag k="seamark:light:5:category" v="directional"/>
+		<tag k="seamark:light:5:character" v="Fl"/>
+		<tag k="seamark:light:5:colour" v="red"/>
+		<tag k="seamark:light:5:period" v="12"/>
+		<tag k="seamark:light:5:radius" v="0.7"/>
+		<tag k="seamark:light:6:character" v="Fl"/>
+		<tag k="seamark:light:6:colour" v="white"/>
+		<tag k="seamark:light:6:period" v="6"/>
+		<tag k="seamark:light:6:radius" v="0.5"/>
+		<tag k="seamark:light:6:range" v="0.05"/>
+		<tag k="seamark:light:6:sequence" v="1.5+(4.5)"/>
+		<tag k="seamark:light:reference" v="C 1386.4"/>
+		<tag k="seamark:longname" v="Lieps."/>
+		<tag k="seamark:name" v="Lieps"/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+	</node>
+	<node id="1521866220" lat="53.8997845" lon="11.457691" version="2" timestamp="2011-12-10T09:23:11Z" changeset="10079347" uid="139976" user="CyberNautiker">
+		<tag k="ref" v="C 1395.6"/>
+		<tag k="seamark:beacon_special_purpose:colour" v="blue"/>
+		<tag k="seamark:landmark:height" v="7"/>
+		<tag k="seamark:light:character" v="F"/>
+		<tag k="seamark:light:colour" v="green"/>
+		<tag k="seamark:light:height" v="7"/>
+		<tag k="seamark:light:range" v="1"/>
+		<tag k="seamark:light:ref" v="C 1395.6"/>
+		<tag k="seamark:longname" v="Werft Hafen."/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+	</node>
+	<node id="1522154020" lat="54.0894063" lon="11.5411282" version="1" timestamp="2011-11-28T22:54:09Z" changeset="9983259" uid="139976" user="CyberNautiker">
+		<tag k="buoy" v="special_purpose"/>
+		<tag k="buoy:shape" v="pillar"/>
+		<tag k="description" v="28-JUL-08 8:06:21"/>
+		<tag k="ft_link" v="www.freietonne.de?edit=2120"/>
+		<tag k="name" v="011"/>
+		<tag k="seamark" v="buoy"/>
+		<tag k="seamark:buoy_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:buoy_special_purpose:shape" v="spar"/>
+		<tag k="seamark:name" v="11"/>
+		<tag k="seamark:type" v="buoy_special_purpose"/>
+	</node>
+	<node id="1525345626" lat="53.9335582" lon="11.4201245" version="1" timestamp="2011-11-30T21:39:51Z" changeset="10003545" uid="291382" user="cleanerx"/>
+	<node id="1525368243" lat="53.9100782" lon="11.4397885" version="1" timestamp="2011-11-30T21:58:59Z" changeset="10003715" uid="291382" user="cleanerx"/>
+	<node id="1525368244" lat="53.9331388" lon="11.4200114" version="1" timestamp="2011-11-30T21:58:59Z" changeset="10003715" uid="291382" user="cleanerx"/>
+	<node id="1525370474" lat="53.9099009" lon="11.4397949" version="1" timestamp="2011-11-30T22:05:52Z" changeset="10003768" uid="291382" user="cleanerx"/>
+	<node id="1527827853" lat="54.100065" lon="11.4366733" version="2" timestamp="2011-12-02T15:45:44Z" changeset="10017635" uid="139976" user="CyberNautiker">
+		<tag k="name" v="WP 344"/>
+		<tag k="seamark:buoy_safe_water:colour" v="red;white"/>
+		<tag k="seamark:buoy_safe_water:colour_pattern" v="vertical"/>
+		<tag k="seamark:buoy_safe_water:shape" v="pillar"/>
+		<tag k="seamark:light:character" v="Iso"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:name" v="Wismar"/>
+		<tag k="seamark:topmark:colour" v="red"/>
+		<tag k="seamark:topmark:shape" v="sphere"/>
+		<tag k="seamark:type" v="buoy_safe_water"/>
+		<tag k="seamark:waypoint" v="WP344"/>
+	</node>
+	<node id="1531034658" lat="53.9472431" lon="11.4113672" version="2" timestamp="2011-12-27T10:38:46Z" changeset="10214453" uid="139976" user="CyberNautiker">
+		<tag k="light" v="yes"/>
+		<tag k="light:character" v="Iso"/>
+		<tag k="light:colour" v="white"/>
+		<tag k="light:description" v="Iso.4s10m7M"/>
+		<tag k="light:ele" v="6"/>
+		<tag k="light:period" v="4"/>
+		<tag k="light:range" v="7"/>
+		<tag k="name" v="Poel Front Lt"/>
+		<tag k="seamark:beacon_special_purpose:colour" v="white"/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+	</node>
+	<node id="1531034668" lat="53.9701088" lon="11.4385575" version="1" timestamp="2011-12-04T12:22:02Z" changeset="10032501" uid="139976" user="CyberNautiker"/>
+	<node id="1531034674" lat="53.9823219" lon="11.3248114" version="1" timestamp="2011-12-04T12:22:03Z" changeset="10032501" uid="139976" user="CyberNautiker"/>
+	<node id="1531034677" lat="53.9879559" lon="11.4393884" version="1" timestamp="2011-12-04T12:22:03Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="seamark:beacon_cardinal:category" v="east"/>
+		<tag k="seamark:beacon_cardinal:colour" v="black;yellow;black"/>
+		<tag k="seamark:beacon_cardinal:colour_pattern" v="horizontal"/>
+		<tag k="seamark:topmark:colour" v="black"/>
+		<tag k="seamark:topmark:shape" v="2 cones base together"/>
+		<tag k="seamark:type" v="beacon_cardinal"/>
+	</node>
+	<node id="1531034684" lat="53.9969831" lon="11.4435654" version="1" timestamp="2011-12-04T12:22:03Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="ref" v="C 1396.4"/>
+		<tag k="seamark:beacon_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:light:category" v="front"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:height" v="7"/>
+		<tag k="seamark:light:period" v="10"/>
+		<tag k="seamark:light:range" v="10"/>
+		<tag k="seamark:light:ref" v="C 1396.4"/>
+		<tag k="seamark:light:sequence" v="2+(1)+6+(1)"/>
+		<tag k="seamark:longname" v="Second Range, front."/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+	</node>
+	<node id="1531034698" lat="53.9973342" lon="11.4436256" version="1" timestamp="2011-12-04T12:22:04Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<tag k="ref" v="C 1396.5"/>
+		<tag k="seamark:beacon_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:light:category" v="rear"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:group" v="2"/>
+		<tag k="seamark:light:height" v="13"/>
+		<tag k="seamark:light:period" v="10"/>
+		<tag k="seamark:light:range" v="10"/>
+		<tag k="seamark:light:ref" v="C 1396.5"/>
+		<tag k="seamark:light:sequence" v="2+(1)+6+(1)"/>
+		<tag k="seamark:longname" v="Rear, 38 meters 006° 24′  from front."/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+	</node>
+	<node id="1531053597" lat="53.9585729" lon="11.3307084" version="1" timestamp="2011-12-04T12:47:57Z" changeset="10032730" uid="139976" user="CyberNautiker">
+		<tag k="ref" v="C 1382"/>
+		<tag k="seamark:beacon_special_purpose:colour" v="yellow"/>
+		<tag k="seamark:beacon_special_purpose:shape" v="tower"/>
+		<tag k="seamark:light:category" v="front"/>
+		<tag k="seamark:light:character" v="Oc"/>
+		<tag k="seamark:light:colour" v="white"/>
+		<tag k="seamark:light:height" v="20"/>
+		<tag k="seamark:light:period" v="4"/>
+		<tag k="seamark:light:range" v="15"/>
+		<tag k="seamark:light:ref" v="C 1382"/>
+		<tag k="seamark:light:sequence" v="3+(1)"/>
+		<tag k="seamark:longname" v="Hohen Wieschendorf  Range, front."/>
+		<tag k="seamark:name" v="Hohen Wieschendorf front"/>
+		<tag k="seamark:type" v="beacon_special_purpose"/>
+		<tag k="source" v="US NGA Pub. 116. 2011-04-13"/>
+	</node>
+	<node id="1531053598" lat="53.9887633" lon="11.330275" version="1" timestamp="2011-12-04T12:47:57Z" changeset="10032730" uid="139976" user="CyberNautiker"/>
+	<node id="1531084348" lat="53.9470762" lon="11.347675" version="3" timestamp="2012-12-14T16:03:14Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="email" v="ra.renzow@gmx.de"/>
+		<tag k="harbour" v="yes"/>
+		<tag k="harbour:MMSI" v="00"/>
+		<tag k="harbour:category" v="marina"/>
+		<tag k="harbour:namenational" v="Marna Hohen Wieschendorfi"/>
+		<tag k="harbour:note" v="FIXME"/>
+		<tag k="harbour:phone" v="+"/>
+		<tag k="harbour:web" v="http://"/>
+		<tag k="leisure" v="marina"/>
+		<tag k="marina:status" v="closed"/>
+		<tag k="name" v="Marina Hohen Wieschendorf"/>
+		<tag k="phone" v="+49 049 1778884480"/>
+		<tag k="seamark:harbour:category" v="marina"/>
+		<tag k="seamark:name" v="Marina Hohen Wieschendorf"/>
+		<tag k="seamark:type" v="harbour"/>
+		<tag k="website" v="http://www.marina-hohenwieschendorf.de/"/>
+	</node>
+	<node id="1701070265" lat="54.2925" lon="11.9177778" version="1" timestamp="2012-04-04T14:35:48Z" changeset="11177469" uid="544675" user="Obelixx"/>
+	<node id="1701070278" lat="54.2930556" lon="12.0833333" version="1" timestamp="2012-04-04T14:35:49Z" changeset="11177469" uid="544675" user="Obelixx"/>
+	<node id="1701070283" lat="54.3838889" lon="12.2169444" version="1" timestamp="2012-04-04T14:35:49Z" changeset="11177469" uid="544675" user="Obelixx"/>
+	<node id="1701070286" lat="54.4247222" lon="12.2602778" version="1" timestamp="2012-04-04T14:35:49Z" changeset="11177469" uid="544675" user="Obelixx"/>
+	<node id="1701070288" lat="54.5127778" lon="12.3491667" version="1" timestamp="2012-04-04T14:35:49Z" changeset="11177469" uid="544675" user="Obelixx"/>
+	<node id="1701070291" lat="54.6722222" lon="12.6116667" version="1" timestamp="2012-04-04T14:35:49Z" changeset="11177469" uid="544675" user="Obelixx"/>
+	<node id="1701070293" lat="54.9988889" lon="12.7416667" version="1" timestamp="2012-04-04T14:35:49Z" changeset="11177469" uid="544675" user="Obelixx"/>
+	<node id="1701070296" lat="55.0163889" lon="12.7569444" version="1" timestamp="2012-04-04T14:35:49Z" changeset="11177469" uid="544675" user="Obelixx"/>
+	<node id="1701070300" lat="55.0419444" lon="12.7558333" version="1" timestamp="2012-04-04T14:35:49Z" changeset="11177469" uid="544675" user="Obelixx"/>
+	<node id="1701070303" lat="55.1241667" lon="12.7872222" version="1" timestamp="2012-04-04T14:35:49Z" changeset="11177469" uid="544675" user="Obelixx"/>
+	<node id="1701070307" lat="55.1486111" lon="12.9013889" version="1" timestamp="2012-04-04T14:35:49Z" changeset="11177469" uid="544675" user="Obelixx"/>
+	<node id="1701070314" lat="55.2841667" lon="13.0080556" version="1" timestamp="2012-04-04T14:35:49Z" changeset="11177469" uid="544675" user="Obelixx"/>
+	<node id="1701070316" lat="55.3825374" lon="13.0090811" version="2" timestamp="2012-04-04T16:02:10Z" changeset="11178386" uid="544675" user="Obelixx"/>
+	<node id="1701176255" lat="55.3892893" lon="13.0144883" version="1" timestamp="2012-04-04T15:59:26Z" changeset="11178351" uid="544675" user="Obelixx"/>
+	<node id="1701176256" lat="55.3923727" lon="13.0188442" version="1" timestamp="2012-04-04T15:59:26Z" changeset="11178351" uid="544675" user="Obelixx"/>
+	<node id="1701179001" lat="55.4229217" lon="13.0570347" version="1" timestamp="2012-04-04T16:02:10Z" changeset="11178386" uid="544675" user="Obelixx"/>
+	<node id="2066653400" lat="53.9024987" lon="11.4356228" version="1" timestamp="2012-12-14T16:03:14Z" changeset="14272933" uid="644905" user="RTU">
+		<tag k="seamark:small_craft_facility:category" v="visitor_berth"/>
+		<tag k="seamark:type" v="small_craft_facility"/>
+	</node>
+	<way id="79092545" version="9" timestamp="2012-10-17T09:02:48Z" changeset="13529024" uid="53936" user="elsaxo">
+		<nd ref="924266998"/>
+		<nd ref="1102766381"/>
+		<nd ref="924266999"/>
+		<nd ref="924267001"/>
+		<nd ref="924267004"/>
+		<nd ref="924267007"/>
+		<nd ref="924267008"/>
+		<nd ref="924267009"/>
+		<nd ref="924267010"/>
+		<nd ref="924267013"/>
+		<nd ref="924267016"/>
+		<nd ref="924267019"/>
+		<nd ref="924267021"/>
+		<nd ref="924267022"/>
+		<nd ref="924267023"/>
+		<nd ref="924267024"/>
+		<nd ref="924267025"/>
+		<nd ref="924267026"/>
+		<nd ref="924267035"/>
+		<nd ref="924267037"/>
+		<nd ref="924267038"/>
+		<nd ref="924267041"/>
+		<nd ref="924267042"/>
+		<nd ref="924267044"/>
+		<nd ref="924267045"/>
+		<nd ref="924267046"/>
+		<nd ref="924267047"/>
+		<nd ref="1701070265"/>
+		<nd ref="1701070278"/>
+		<nd ref="1701070283"/>
+		<nd ref="1701070286"/>
+		<nd ref="1701070288"/>
+		<nd ref="1701070291"/>
+		<nd ref="1701070293"/>
+		<nd ref="1701070296"/>
+		<nd ref="1701070300"/>
+		<nd ref="1701070303"/>
+		<nd ref="1701070307"/>
+		<nd ref="1701070314"/>
+		<nd ref="1701070316"/>
+		<nd ref="1701176255"/>
+		<nd ref="1701176256"/>
+		<nd ref="1701179001"/>
+		<nd ref="924251180"/>
+		<tag k="frequency" v="0"/>
+		<tag k="name" v="Baltic Cable"/>
+		<tag k="position" v="underground"/>
+		<tag k="power" v="cable"/>
+		<tag k="seamark:cable_submarine:category" v="power"/>
+		<tag k="seamark:name" v="Baltic Cable"/>
+		<tag k="seamark:type" v="cable_submarine"/>
+		<tag k="source" v="http://mapserver.mytopo.com/homepage/index.cfm?lat=55.3445206969&#38;lon=12.9838260195&#38;scale=220000&#38;zoom=100&#38;type=0&#38;height=498&#38;width=498&#38;icon=0&#38;searchscope=dom&#38;CFID=11100095&#38;CFTOKEN=39050200&#38;scriptfile=http://mapserver.mytopo.com/homepage/index.cfm&#38;bpid=MAP02"/>
+		<tag k="tunnel" v="yes"/>
+		<tag k="voltage" v="450000"/>
+		<tag k="website" v="http://www.balticcable.com"/>
+		<tag k="wikipedia:de" v="Baltic Cable"/>
+		<tag k="wikipedia:en" v="Baltic Cable"/>
+	</way>
+	<way id="139181868" version="2" timestamp="2011-12-04T12:22:06Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<nd ref="571103501"/>
+		<nd ref="1531034658"/>
+		<nd ref="1525345626"/>
+		<tag k="seamark:navigation_line:orientation" v="339.5"/>
+		<tag k="seamark:type" v="navigation_line"/>
+	</way>
+	<way id="139184591" version="2" timestamp="2011-12-10T09:47:37Z" changeset="10079479" uid="139976" user="CyberNautiker">
+		<nd ref="571190920"/>
+		<nd ref="1525368244"/>
+		<tag k="seamark:name" v="Wendorf"/>
+		<tag k="seamark:navigation_line:orientation" v="159.5"/>
+		<tag k="seamark:type" v="navigation_line"/>
+	</way>
+	<way id="139184592" version="2" timestamp="2011-12-27T10:23:37Z" changeset="10214324" uid="139976" user="CyberNautiker">
+		<nd ref="571175641"/>
+		<nd ref="571175642"/>
+		<nd ref="1525368243"/>
+		<tag k="seamark:navigation_line:orientation" v="329.9"/>
+		<tag k="seamark:type" v="navigation_line"/>
+	</way>
+	<way id="139184967" version="1" timestamp="2011-11-30T22:05:52Z" changeset="10003768" uid="291382" user="cleanerx">
+		<nd ref="474767292"/>
+		<nd ref="1525370474"/>
+		<tag k="seamark:navigation_line:orientation" v="149.9"/>
+		<tag k="seamark:type" v="navigation_line"/>
+	</way>
+	<way id="139691955" version="1" timestamp="2011-12-04T12:22:04Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<nd ref="571112762"/>
+		<nd ref="1531034658"/>
+		<nd ref="1531034674"/>
+		<tag k="seamark:navigation_line:orientation" v="123°54&#39;"/>
+		<tag k="seamark:type" v="navigation_line"/>
+	</way>
+	<way id="139691959" version="1" timestamp="2011-12-04T12:22:04Z" changeset="10032501" uid="139976" user="CyberNautiker">
+		<nd ref="1531034698"/>
+		<nd ref="1531034684"/>
+		<nd ref="1531034668"/>
+		<tag k="seamark:navigation_line:orientation" v="006°24&#39;"/>
+		<tag k="seamark:type" v="navigation_line"/>
+	</way>
+	<way id="139699229" version="1" timestamp="2011-12-04T12:47:57Z" changeset="10032730" uid="139976" user="CyberNautiker">
+		<nd ref="476013920"/>
+		<nd ref="1531053597"/>
+		<nd ref="1531053598"/>
+		<tag k="seamark:navigation_line:orientation" v="180°18&#39;"/>
+		<tag k="seamark:type" v="navigation_line"/>
+	</way>
+</osm>

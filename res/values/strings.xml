@@ -1,0 +1,99 @@
+<resources>
+  <!-- last update from 13_01_01, 13_01_11-->
+    <string name="app_name">OpenSeaMap Viewer</string>
+    
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">OpenSeaMap Viewer</string>
+    
+    <!-- main activity -->
+    <string name ="main_activity_openseamapviewer">OpenSeamapViewer (offline)</string>
+    <string name ="main_activity_openseamapviewer_with_pois">OpenSeamapViewer with pois (tapable seamarks) (offline)</string>
+    <string name ="main_activity_openseamapviewer_with_info_pois">OpenSeamapViewer with info pois (tapable Info seamarks) (offline)</string>
+    <string name ="main_activity_openseamapviewer_download">OpenSeamapViewer (online)</string>
+    <string name ="main_activity_info">about his software</string>
+    <string name ="main_activity_eniro_nautical_viewer_download">Eniro Nautical Viewer (online)</string>
+    <string name ="main_activity_eniro_aerial_viewer_download">Eniro Aerial Viewer (online)</string>
+    <string name ="main_activity_openseamapviewer_with_bing_aerial_download">OpenSeamapViewer with Bing Aerial underlay (online)</string>
+    <string name ="main_activity_openseamapviewer_with_eniro_aerial_download">OpenSeamapViewer with Eniro Aerial underlay (online)</string>
+    <string name ="main_activity_location_of_testmap">locate testmap in /sdcard/openseamapviewer</string>
+    <string name ="main_activity_directory_create">create main data directory: </string>
+    <string name ="main_activity_copy">copy: </string>
+    <string name ="main_activity_create_std_renderer">can\'t create OpenSeaMap Standard Renderer </string>
+    <string name="main_activity_used_memory">available Memory for this app: </string>
+    
+    
+    <string name="osmviewer_exit_question">Are you sure you want to exit?</string>
+	<string name="osmviewer_exit_yes">yes</string>
+	<string name="osmviewer_exit_no">no</string>
+	
+	
+    <!-- osmvieverwithpois -->
+    <string name ="osmviewer_start_stdrender_not_found">Standard RenderTheme not found</string>
+    <string name ="osmviewer_seamarks_file_not_found">no seamarks.xml file: </string>
+    <string name ="osmviewer_seamarks_harbour_url">call internet browser </string>
+     <!--  osmdownloadviever -->
+     
+    <string name = "osm_download_viever_show_center">show center</string>
+    <string name = "osm_download_viever_hide_center">hide center</string>
+    <string name = "osm_download_viever_show_map_info">show center</string>
+    <string name = "osm_download_viever_hide_map_info">hide center</string>
+    
+    <!-- osmviewer menu -->
+    
+    <string name = "osmviewer_menu_render_theme">renderer</string>
+    <string name = "osmviewer_menu_theme_osmarender">Osmarender</string>
+    <string name = "osmviewer_menu_theme_openseamaprender">OpenSeaMap renderer</string>
+    <string name = "osmviewer_menu_render_theme_select_file">select render file</string>
+    <string name = "osmviewer_menu_mapfile">mapfile</string>
+    <string name = "osmviewer_menu_mapfile_select_file">select map file</string>
+    <string name = "osmviewer_menu_seamarksfile_select_file">select seamark file</string>
+    
+    <string name = "osmviewer_menu_route">Route</string>
+    <string name = "osmviewer_menu_routefile_select_file">select route file ( created with OpenSeamap Törnplaner)</string>
+    <string name = "osmviewer_menu_route_gpx_file_select_file">select route file ( gpx )</string>
+    <string name = "osmviewer_menu_route_hide">hide route</string>
+    <string name = "osmviewer_menu_route_show">show route</string>
+    
+    <string name = "osmviewer_menu_screenshot">screenshot</string>
+    
+    <!-- osmviewer prepare menu -->
+    <string name = "osmviewer_menu_hide_infos">hide infos</string>
+    <string name = "osmviewer_menu_show_infos">show infos</string>
+    <string name = "osmviewer_menu_hide_fires">hide fires</string>
+    <string name = "osmviewer_menu_show_fires">show fires</string>
+    <string name = "osmviewer_menu_hide_location">hide location</string>
+    <string name = "osmviewer_menu_show_location">show GPS-location</string>
+    <string name = "osmviewer_menu_hide_map_info">hide map info</string>
+    <string name = "osmviewer_menu_show_map_info">show map info</string>
+    <string name = "osmviewer_menu_show_names_info">seamark names ( zoom > 13)</string>
+    <string name = "osmviewer_menu_show_no_names_info">hide names</string>
+    <string name = "osmviewer_menu_show_short_names_info">show short names</string>
+    <string name = "osmviewer_menu_show_long_names_info">show long names</string>
+    <!-- ScreenshotCapturer -->
+    
+    <string name = "screenshot_capturer_could_not_create_screenshot_directory">Could not create screenshot directory</string>
+    <string name = "screenshot_capturer_screenshot_could_not_be_saved">Screenshot could not be saved</string>
+    
+    <!-- online services-->
+    <string name ="tcp_network_service">TCP Network Service</string>
+    <string name ="mapdownload_runs">Tile </string>
+	<string name ="mapdownload_false">no map download possible!</string>
+	
+	<!-- used in RenderOpenStreetMap -->
+	<string name="unit_symbol_kilometer">&#160;km</string>
+	<string name="unit_symbol_meter">&#160;m</string>
+	
+	
+	<!-- used in FilePicker  -->
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+	<string name="error">Error</string>
+	<string name="error_last_location_unknown">The last location is unknown</string>
+	<string name="file_invalid">The selected file is invalid.</string>
+	<string name="file_select">Please select a file.</string>
+	<string name="file_size_byte">byte</string>
+	<string name="file_size_bytes">bytes</string>
+	<string name="file_size_kb">kB</string>
+	<string name="file_size_mb">MB</string>
+	<string name="file_size_gb">GB</string>
+</resources>

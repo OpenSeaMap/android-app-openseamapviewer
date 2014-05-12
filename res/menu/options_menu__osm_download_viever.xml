@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/menu_show_location" 
+	      android:title="@+string/osmviewer_menu_show_location" android:showAsAction="ifRoom"/>
+	<item android:id="@+id/menu_show_overlay_center" 
+	      android:title="@+string/osm_download_viever_show_center" android:showAsAction="ifRoom"/>
+	<item android:id="@+id/menu_download_show_map_info" 
+	      android:title="@+string/osm_download_viever_show_map_info" android:showAsAction="ifRoom"/>
+	<item android:id="@+id/menu_route" 
+	      android:title="@+string/osmviewer_menu_route" android:showAsAction="ifRoom">
+		<menu>
+			<item android:id="@+id/menu_read_route_gml_file" 
+	           android:title="@+string/osmviewer_menu_routefile_select_file" android:showAsAction="ifRoom|withText"/>
+			<item android:id="@+id/menu_read_route_gpx_file" 
+	           android:title="@+string/osmviewer_menu_route_gpx_file_select_file" android:showAsAction="ifRoom|withText"/>
+			<item android:id="@+id/menu_show_hide_route"  
+	           android:title="@+string/osmviewer_menu_route_show" android:showAsAction="ifRoom|withText"/>
+		</menu>
+	</item>
+</menu>

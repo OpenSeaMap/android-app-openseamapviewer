@@ -1,0 +1,48 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.openseamap.openseamapviewer"
+    android:versionCode="057"
+    android:versionName="0.57" >
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="10" />
+
+    <application
+        android:icon="@drawable/ic_openseamap"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" 
+        android:debuggable="true">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+     
+        <activity android:name=".viewer.OpenSeamapViewerWithPois" android:label="OpenSeamapViewerWithPois" />
+        <activity android:name=".viewer.OpenSeaMapViewer" android:label="OpenSeaMapViewer" />
+        <activity android:name=".viewer.OpenSeaMapViewerWithInfoPois" android:label="OpenSeaMapViewerWithInfoPois" />
+       
+        <activity android:name=".viewer.OpenSeaMapWithAerialOverlayViewer" android:label="OpenSeaMapWithAerialOverlayViewer" />
+        
+        <activity android:name=".InfoActivity" />
+        <activity android:name=".filepicker.FilePicker" />
+        <activity android:name=".viewer.DownloadEniroNauticalViewer" android:label="DownloadEniroNauticalViewer" />
+        <activity android:name=".viewer.DownloadEniroAerialViewer" android:label="DownloadEniroAerialViewer" />
+       
+        <activity android:name=".viewer.DownloadOpenSeamapMapViewer" android:label="DownloadOpenSeamapMapViewer" />
+        <activity android:name=".viewer.DownloadOpenSeamapSeamarksViewer" android:label="DownloadOpenSeamapSeamarksViewer" />
+        <activity android:name=".viewer.DownloadOpenSeamapTileAndSeamarksViewer" android:label="DownloadOpenSeamapTileAndSeamarksViewer" />
+        <activity android:name=".viewer.SplitScreenViewer" android:label="SplitScreenViewer" />
+        <activity android:name=".viewer.DualMapViewer" android:label="DualMapViewer" />
+        <activity android:name=".viewer.SplitOpenSeaMapWithAerialOverlayViewer" android:label="SplitOpenSeaMapWithAerialOverlayViewer" />
+        <activity android:name=".viewer.SplitOpenSeaMapWithAerialOverlayAndPoisViewer" android:label=" SplitOpenSeaMapWithAerialOverlayAndPoisViewer" />
+       
+    </application>
+
+</manifest>

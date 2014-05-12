@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	
+	<item android:id="@+id/menu_show_location" 
+	      android:title="@+string/osmviewer_menu_show_location" android:showAsAction="ifRoom"/>
+	<item android:id="@+id/menu_show_other_seamarks" 
+	      android:title="@+string/osmviewer_menu_show_infos" android:showAsAction="ifRoom|withText"/>
+	<item android:id="@+id/menu_show_sector_fires" 
+	      android:title="@+string/osmviewer_menu_show_fires" android:showAsAction="ifRoom|withText"/>
+	<item android:id="@+id/menu_show_seamark_names" 
+	      android:title="@+string/osmviewer_menu_show_names_info" android:showAsAction="ifRoom|withText">
+	      <menu>
+	         <item android:id="@+id/menu_show_no_names_info" 
+	               android:title="@+string/osmviewer_menu_show_no_names_info" android:showAsAction="ifRoom|withText"/> 
+	         <item android:id="@+id/menu_show_short_names_info" 
+	               android:title="@+string/osmviewer_menu_show_short_names_info" android:showAsAction="ifRoom|withText"/> 
+	         <item android:id="@+id/menu_show_long_names_info" 
+	               android:title="@+string/osmviewer_menu_show_long_names_info" android:showAsAction="ifRoom|withText"/> 
+	      </menu>
+	</item>
+	
+	<item android:id="@+id/menu_mapfile" 
+	    android:title="@+string/osmviewer_menu_mapfile" android:showAsAction="ifRoom|withText">
+		<menu>
+			<item android:id="@+id/menu_mapfile_select_file"
+			     android:title="@+string/osmviewer_menu_mapfile_select_file" android:showAsAction="ifRoom"/>
+			<item android:id="@+id/menu_mapfile_select_seamarks_file"
+			     android:title="@+string/osmviewer_menu_seamarksfile_select_file" android:showAsAction="ifRoom"/>
+		</menu>
+	</item>
+	<item android:id="@+id/menu_route" 
+	      android:title="@+string/osmviewer_menu_route" android:showAsAction="ifRoom">
+		<menu>
+			<item android:id="@+id/menu_read_route_gml_file" 
+	           android:title="@+string/osmviewer_menu_routefile_select_file" android:showAsAction="ifRoom|withText"/>
+			<item android:id="@+id/menu_read_route_gpx_file" 
+	           android:title="@+string/osmviewer_menu_route_gpx_file_select_file" android:showAsAction="ifRoom|withText"/>
+			<item android:id="@+id/menu_show_hide_route"  
+	           android:title="@+string/osmviewer_menu_route_show" android:showAsAction="ifRoom|withText"/>
+		</menu>
+	</item>
+	
+	
+	<item android:id="@+id/menu_render_theme" 
+	      android:title="@+string/osmviewer_menu_render_theme" android:showAsAction="ifRoom">
+		<menu>
+			
+			<item android:id="@+id/menu_render_theme_select_file" 
+			      android:title="@+string/osmviewer_menu_render_theme_select_file" android:showAsAction="ifRoom"/>
+			<item android:id="@+id/menu_render_theme_openseamaprender" 
+			      android:title="@+string/osmviewer_menu_theme_openseamaprender" android:showAsAction="ifRoom"/>
+			<item android:id="@+id/menu_render_theme_osmarender" 
+			      android:title="@+string/osmviewer_menu_theme_osmarender" android:showAsAction="ifRoom"/>
+		</menu>
+	</item>
+	
+	
+	
+ 	<item android:id="@+id/menu_screenshot_png" 
+ 	      android:title="@+string/osmviewer_menu_screenshot" android:showAsAction="ifRoom"/>
+ 	<item android:id="@+id/menu_show_map_info" 
+ 	      android:title="@+string/osmviewer_menu_show_map_info" android:showAsAction="ifRoom"/>
+</menu>

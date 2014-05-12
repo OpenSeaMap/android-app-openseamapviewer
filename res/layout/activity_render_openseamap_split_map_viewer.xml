@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+   <LinearLayout 
+       android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:orientation="vertical">
+   
+	    <LinearLayout 
+	       android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			
+			android:orientation="vertical">
+	       <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/OSM_Info_textview"
+	        android:padding="@dimen/padding_medium"
+	        android:text="Mapcenter"
+	        /> 
+	       
+	   </LinearLayout>
+	   <LinearLayout 
+	      android:id="@+id/mapViewMain"
+	      android:layout_width="fill_parent"
+		  android:layout_height="wrap_content"
+		  android:orientation="horizontal"> 
+			<LinearLayout 
+		       android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:orientation="vertical"
+				 android:layout_weight="1">
+		      <org.mapsforge.android.maps.MapView
+		        android:id="@+id/mapViewLeft"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content" 
+		       />
+		        
+		   </LinearLayout>
+		   <LinearLayout 
+		       android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:orientation="vertical"
+				 android:layout_weight="1">
+		      <org.mapsforge.android.maps.MapView
+		        android:id="@+id/mapViewRight"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+                android:layout_weight="1"/>    
+		   </LinearLayout>
+	       
+	   </LinearLayout>
+   
+   </LinearLayout>
+    
+
+</RelativeLayout>
